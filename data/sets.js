@@ -1,7 +1,7 @@
 /* Grade 3 Reading Practice: Make and Support Inferences, Informational Texts.
    BUILT by tools/build_data.py from drafts/*.md. Do not edit by hand: change the draft, then run
    python3 tools/build_data.py (and python3 tools/check_drafts.py).
-   drafts fingerprint: a454b02e1769 */
+   drafts fingerprint: 52ba6c899115 */
 window.SETS = {
  "W": {
   "passages": [
@@ -235,7 +235,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Pablo is excited to make the kite?",
+    "stem": "Which sentences from the passage best support that Pablo is happy working on the kite?",
     "hint": "Read the idea in the question. Look at each sentence. Ask: Does this prove the idea? A true sentence is not always proof.",
     "choices": [
      {
@@ -244,15 +244,15 @@ window.SETS = {
      },
      {
       "t": "They built the frame out of long bamboo poles. Abuelo sketched a big green bird with long wings.",
-      "why": "This tells what the family made. It does not prove Pablo is excited."
+      "why": "This tells what the family made. It does not prove Pablo is happy."
      },
      {
       "t": "Some giant kites stood on tall poles for all to see. Other kites soared high in the sky.",
-      "why": "This tells about the kites on Kite Day. It does not prove Pablo is excited to make the kite."
+      "why": "This tells about the kites on Kite Day. It does not prove Pablo is happy working on the kite."
      },
      {
       "t": "Pablo hummed as he worked. Kite days were the best days of the year!",
-      "why": "Yes! Pablo hums while he works, and kite days are his best days. That proves he is excited."
+      "why": "Yes! Pablo hums while he works, and kite days are his best days. That proves he is happy working on the kite."
      }
     ],
     "answer": 3
@@ -263,6 +263,7 @@ window.SETS = {
     "p": 0,
     "type": "ebsr",
     "skill": "Main idea of a few paragraphs + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "excerpt": [
      "Pablo picked up a red square. His heart beat fast. He smeared a lot of glue on the back. His hands trembled. He pressed down hard, and the delicate paper ripped.",
      "\"That is okay,\" said Abuelo. \"Thin paper needs a little glue and a gentle hand.\"",
@@ -292,7 +293,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Pablo picked up a red square.",
@@ -320,30 +321,30 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Pablo is nervous about gluing.",
+    "stem": "Select two sentences that best support the inference that Pablo is scared to glue the paper.",
     "pick": 2,
     "layout": "list",
     "hint": "You need two sentences. Each one must prove the idea by itself.",
     "pieces": [
      {
       "t": "Pablo picked up a red square.",
-      "why": "This tells what Pablo does. It does not prove he is nervous."
+      "why": "This tells what Pablo does. It does not prove he is scared."
      },
      {
       "t": "His heart beat fast.",
-      "why": "A fast heartbeat and trembling, shaky hands are clues that Pablo is nervous."
+      "why": "A fast heartbeat and trembling, shaky hands are clues that Pablo is scared."
      },
      {
       "t": "He smeared a lot of glue on the back.",
-      "why": "This tells what Pablo does. It does not prove he is nervous."
+      "why": "This tells what Pablo does. It does not prove he is scared."
      },
      {
       "t": "His hands trembled.",
-      "why": "A fast heartbeat and trembling, shaky hands are clues that Pablo is nervous."
+      "why": "A fast heartbeat and trembling, shaky hands are clues that Pablo is scared."
      },
      {
       "t": "He pressed down hard, and the delicate paper ripped.",
-      "why": "This tells what Pablo does. It does not prove he is nervous."
+      "why": "This tells what Pablo does. It does not prove he is scared."
      }
     ],
     "answer": [
@@ -381,7 +382,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Rosa started her day by inspecting her gear.",
@@ -469,6 +470,7 @@ window.SETS = {
     "p": 2,
     "type": "ebsr",
     "skill": "The main problem + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "hint": "The problem is the big trouble. The fix is not the problem. The problem comes first.",
     "partA": {
      "q": "Which sentence best tells the main problem box turtles face in the passage?",
@@ -493,7 +495,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Box turtles live on land, in woodlands and grassy fields.",
@@ -581,7 +583,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "Its domed brown shell was speckled with bright yellow spots.",
@@ -609,7 +611,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that box turtles are like people in some ways. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that box turtles do something people do too. Which sentence from the passage best supports this inference?",
     "hint": "Read the idea in the question. Look at each sentence. Ask: Does this prove the idea? A true sentence is not always proof.",
     "choices": [
      {
@@ -618,11 +620,11 @@ window.SETS = {
      },
      {
       "t": "A box turtle knows its patch of woods like you know your own street.",
-      "why": "Yes! This compares a box turtle to you. A turtle knows its home, just like a person does."
+      "why": "Yes! This compares a box turtle to you. A turtle knows its home, just like a person does. That proves box turtles do something people do too."
      },
      {
       "t": "Box turtles eat earthworms, slugs and snails.",
-      "why": "This tells what box turtles eat. It does not compare them to people."
+      "why": "People eat too, but people do not eat worms, slugs and snails. This does not show something people do."
      },
      {
       "t": "The eggs hatch in late summer or fall.",
@@ -661,7 +663,7 @@ window.SETS = {
      "answer": 3
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "When I crouched down to look closer, the turtle tucked its head and legs inside its shell.",
@@ -914,12 +916,12 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Carmen is excited to make the piñata?",
+    "stem": "Which sentences from the passage best support that Carmen wants to finish the piñata right away?",
     "hint": "Read the idea in the question. Look at each sentence. Ask: Does this prove the idea? A true sentence is not always proof.",
     "choices": [
      {
       "t": "Carmen heard paper in the kitchen. She sprang out of bed. She could not wait to finish the piñata!",
-      "why": "Yes! Carmen springs out of bed, and she cannot wait. That proves she is excited."
+      "why": "Yes! Carmen springs out of bed, and she cannot wait. That proves she wants to finish the piñata right away."
      },
      {
       "t": "The family lived in Tucson, Arizona. The piñata was for her little brother, Leo.",
@@ -927,11 +929,11 @@ window.SETS = {
      },
      {
       "t": "Now the paper was dry and hard. Abuela popped the balloon and pulled it out.",
-      "why": "This is true, but it does not prove Carmen is excited. It tells about the paper and the balloon."
+      "why": "This is true, but it does not prove Carmen wants to finish right away. It tells about the paper and the balloon."
      },
      {
       "t": "Papá hung the star from a tree in the yard. The kids took turns swinging the stick.",
-      "why": "This tells what happens at the party. It does not prove Carmen is excited to make the piñata."
+      "why": "This tells what happens at the party. It does not show how Carmen feels about making the piñata."
      }
     ],
     "answer": 0
@@ -942,6 +944,7 @@ window.SETS = {
     "p": 0,
     "type": "ebsr",
     "skill": "Main idea of a few paragraphs + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "excerpt": [
      "Carmen's stomach felt tight. She looked at the little gold bits on the table. She bit her lip. She put down the scissors. Abuela glanced up from her work.",
      "\"It's all right,\" said Abuela. \"Watch me.\" She folded a new strip in half. Abuela showed Carmen how to cut little lines and stop before the fold.",
@@ -971,7 +974,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "She looked at the little gold bits on the table.",
@@ -1060,7 +1063,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "\"When I started, it took me weeks of practice to get fast,\" Sam said.",
@@ -1148,6 +1151,7 @@ window.SETS = {
     "p": 2,
     "type": "ebsr",
     "skill": "The main problem + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "hint": "The problem is the big trouble. The fix is not the problem. The problem comes first.",
     "partA": {
      "q": "Which sentence best tells the main problem young robins face in the passage?",
@@ -1172,7 +1176,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Then she lined the inside with soft, dry grass.",
@@ -1260,7 +1264,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "I asked Mom to keep Pepper inside until all the fledglings could fly.",
@@ -1288,7 +1292,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that robins are like people in some ways. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that robins and people sometimes do the same thing. Which sentence from the passage best supports this inference?",
     "hint": "Read the idea in the question. Look at each sentence. Ask: Does this prove the idea? A true sentence is not always proof.",
     "choices": [
      {
@@ -1301,7 +1305,7 @@ window.SETS = {
      },
      {
       "t": "Then it tilted its head to one side, like a person listening for a quiet sound.",
-      "why": "Yes! The word \"like\" compares the robin to a person who is listening. That proves the idea."
+      "why": "Yes! The word \"like\" compares the robin to a person who is listening. That proves robins and people sometimes do the same thing."
      },
      {
       "t": "Two weeks later, the fledglings were flying from tree to tree.",
@@ -1340,7 +1344,7 @@ window.SETS = {
      "answer": 3
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Soon there were four sky-blue eggs in the nest.",
@@ -1600,7 +1604,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Eli is excited to sew the quilt?",
+    "stem": "Which sentences from the passage best support that Eli is eager to start sewing?",
     "choices": [
      {
       "t": "Snip, snip, snip! Eli heard Grandma's big scissors from the hallway.",
@@ -1608,11 +1612,11 @@ window.SETS = {
      },
      {
       "t": "Eli could hardly wait to start sewing. He zoomed through the door.",
-      "why": "Yes! Eli can hardly wait, and he zooms in to start. That proves he is excited."
+      "why": "Yes! Eli can hardly wait, and he zooms in to start. That proves he is eager to sew."
      },
      {
       "t": "A basket on the table was crammed with fabric squares. Grandma had snipped them from old clothes.",
-      "why": "This is true, but it does not prove Eli is excited. It tells about the squares, not how Eli feels."
+      "why": "This is true, but it does not prove Eli is eager to sew. It tells about the squares, not how Eli feels."
      },
      {
       "t": "\"Good morning, helper,\" said Grandma. \"Come and pick your squares.\"",
@@ -1627,6 +1631,7 @@ window.SETS = {
     "p": 0,
     "type": "ebsr",
     "skill": "Main idea of a few paragraphs + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "excerpt": [
      "Eli sewed two squares together with tidy stitches. But when he unfolded the fabric, the corners did not match. The green square stuck out past the plaid one. The block looked lopsided. Eli frowned.",
      "Grandma picked up a seam ripper (a tiny tool that cuts stitches). She plucked out Eli's stitches. \"Let's try again,\" she said. \"This time, we will use pins.\"",
@@ -1655,7 +1660,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Eli sewed two squares together with tidy stitches.",
@@ -1683,29 +1688,29 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Eli is nervous about sewing.",
+    "stem": "Select two sentences that best support the inference that Eli feels afraid when it is time to sew.",
     "pick": 2,
     "layout": "list",
     "pieces": [
      {
       "t": "Eli sat down next to Grandma.",
-      "why": "This tells what Eli does. It does not prove he is nervous."
+      "why": "This tells what Eli does. It does not prove he feels afraid."
      },
      {
       "t": "His stomach felt tight.",
-      "why": "A tight stomach and a worried question in a small voice are clues that Eli is nervous."
+      "why": "A tight stomach and a worried question in a small voice are clues that Eli feels afraid."
      },
      {
       "t": "He slid the thimble onto his fingertip.",
-      "why": "This tells what Eli does. It does not prove he is nervous."
+      "why": "This tells what Eli does. It does not prove he feels afraid."
      },
      {
       "t": "He unwound thread from the spool.",
-      "why": "This tells what Eli does. It does not prove he is nervous."
+      "why": "This tells what Eli does. It does not prove he feels afraid."
      },
      {
       "t": "\"What if I ruin the quilt?\" he asked in a small voice.",
-      "why": "A tight stomach and a worried question in a small voice are clues that Eli is nervous."
+      "why": "A tight stomach and a worried question in a small voice are clues that Eli feels afraid."
      }
     ],
     "answer": [
@@ -1723,7 +1728,7 @@ window.SETS = {
      "q": "Which of these conclusions about learning to drive the bookmobile is supported by the passage?",
      "choices": [
       {
-       "t": "It took a lot of practice.",
+       "t": "Ms. Lee had to practice again and again.",
        "why": "Yes! Ms. Lee had to work at it for weeks before she was ready. Answer first. Then find the proof."
       },
       {
@@ -1742,7 +1747,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Inside the truck, which was almost as long as a school bus, shelves of books covered the walls.",
@@ -1828,6 +1833,7 @@ window.SETS = {
     "p": 2,
     "type": "ebsr",
     "skill": "The main problem + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
      "q": "Which sentence best tells the main problem beavers face in the passage?",
      "choices": [
@@ -1851,7 +1857,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "They have webbed back feet for swimming and a flat, scaly tail that helps them steer.",
@@ -1933,7 +1939,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "I jumped so high that I almost fell in.",
@@ -1961,7 +1967,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that beavers are like people in some ways. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that beavers share a habit with people. Which sentence from the passage best supports this inference?",
     "choices": [
      {
       "t": "A beaver's front teeth are orange because they have iron in them, which makes them very strong.",
@@ -1969,11 +1975,11 @@ window.SETS = {
      },
      {
       "t": "A beaver can stay underwater for about 15 minutes.",
-      "why": "Most people could never do this. It does not show that beavers are like people."
+      "why": "Most people could never do this. That is no proof that beavers share a habit with people."
      },
      {
       "t": "A beaver turns a stick in its front paws as it chews, just like a person eating corn on the cob.",
-      "why": "Yes! The words \"just like a person\" compare the beaver to people. That proves the idea."
+      "why": "Yes! A beaver turns a stick in its paws as it chews, just like a person eating corn on the cob. That proves beavers share a habit with people."
      },
      {
       "t": "The teeth never stop growing, but gnawing wood keeps them short.",
@@ -2011,7 +2017,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Beavers are the largest rodents in North America.",
@@ -2286,7 +2292,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Nia is excited to make a basket?",
+    "stem": "Which sentences from the passage best support that Nia is looking forward to making her first basket?",
     "choices": [
      {
       "t": "Swish, swish! Nia brushed her palm across a bundle of dry sweetgrass.",
@@ -2294,7 +2300,7 @@ window.SETS = {
      },
      {
       "t": "Nia could hardly wait to weave her first basket! She bounced on her toes.",
-      "why": "Yes! Nia can hardly wait, and she bounces on her toes. That proves she is excited."
+      "why": "Yes! Nia can hardly wait, and she bounces on her toes. That proves she is looking forward to it."
      },
      {
       "t": "Each basket was handmade. Cars hummed past on the highway, and tourists stopped to look.",
@@ -2302,7 +2308,7 @@ window.SETS = {
      },
      {
       "t": "Nia tried again on her own. This time the row lay smooth and sturdy.",
-      "why": "This tells how Nia's row turned out. It does not prove she was excited to start."
+      "why": "This tells how Nia's row turned out. It does not prove she was looking forward to it."
      }
     ],
     "answer": 1
@@ -2313,6 +2319,7 @@ window.SETS = {
     "p": 0,
     "type": "ebsr",
     "skill": "Main idea of a few paragraphs + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "excerpt": [
      "Aunt Hattie's family is Gullah¹. Gullah families have sewn sweetgrass baskets for more than 300 years. The skill first came from West Africa.",
      "Long ago, people used wide, flat baskets to clean rice. They tossed the rice into the air, and the breeze blew the dusty husks away.",
@@ -2341,7 +2348,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "The skill first came from West Africa.",
@@ -2369,29 +2376,29 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Nia is nervous about sewing.",
+    "stem": "Select two sentences that best support the inference that Nia feels frightened as she begins to sew.",
     "pick": 2,
     "layout": "list",
     "pieces": [
      {
       "t": "Nia picked up the sewing bone.",
-      "why": "This tells what Nia does. It does not prove she is nervous."
+      "why": "This tells what Nia does. It does not prove she feels frightened."
      },
      {
       "t": "Her heart thumped.",
-      "why": "A thumping heart and a worry are clues that Nia is nervous."
+      "why": "A thumping heart and a worry are clues that Nia feels frightened."
      },
      {
       "t": "She pierced the row below with the point.",
-      "why": "This tells what Nia does. It does not prove she is nervous."
+      "why": "This tells what Nia does. It does not prove she feels frightened."
      },
      {
       "t": "Then she slid a palmetto strip through the hole.",
-      "why": "This tells what Nia does. It does not prove she is nervous."
+      "why": "This tells what Nia does. It does not prove she feels frightened."
      },
      {
       "t": "She was worried that she would ruin Aunt Hattie's basket.",
-      "why": "A thumping heart and a worry are clues that Nia is nervous."
+      "why": "A thumping heart and a worry are clues that Nia feels frightened."
      }
     ],
     "answer": [
@@ -2428,7 +2435,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "\"A giraffe can't tell me when something hurts,\" Dana said, \"so I have to notice everything.\"",
@@ -2514,6 +2521,7 @@ window.SETS = {
     "p": 2,
     "type": "ebsr",
     "skill": "The main problem + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
      "q": "Which sentence best tells the main problem hummingbirds face in the passage?",
      "choices": [
@@ -2537,7 +2545,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Its wings beat about 50 times each second, and that makes the hum.",
@@ -2623,7 +2631,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "Then, on the fourth morning, I heard a tiny hum, like a bee.",
@@ -2651,7 +2659,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that hummingbirds are like people in some ways. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that hummingbirds and kids are alike in one way. Which sentence from the passage best supports this inference?",
     "choices": [
      {
       "t": "Then, on the fourth morning, I heard a tiny hum, like a bee.",
@@ -2663,7 +2671,7 @@ window.SETS = {
      },
      {
       "t": "Like a kid who remembers where the cookie jar is, a hummingbird remembers which flowers have food.",
-      "why": "Yes! This compares a hummingbird to a kid. Both remember where to find food."
+      "why": "Yes! This compares a hummingbird to a kid. Both remember where to find food. That proves hummingbirds and kids are alike in one way."
      },
      {
       "t": "Last May, Grandpa and I hung a hummingbird feeder by our kitchen window in North Carolina.",
@@ -2701,7 +2709,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "At the end of summer, hummingbirds eat and eat until they are plump.",
@@ -2970,11 +2978,11 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Mateo is excited to make masks?",
+    "stem": "Which sentences from the passage best support that Mateo loves making masks?",
     "choices": [
      {
       "t": "Mateo grinned. Making masks was his favorite part of the day.",
-      "why": "Yes! He grins, and mask making is his favorite part of the day. That proves he is excited."
+      "why": "Yes! He grins, and mask making is his favorite part of the day. That proves he loves making masks."
      },
      {
       "t": "The mixture turned into a smooth, gooey paste. It felt cool and sticky between his fingers.",
@@ -2982,11 +2990,11 @@ window.SETS = {
      },
      {
       "t": "It was six o'clock in the morning in Ponce, Puerto Rico. Mateo helped his uncle every morning before school.",
-      "why": "Mateo helps every morning. But helping does not prove he is excited. Look for how he feels."
+      "why": "Mateo helps every morning. But helping does not prove he loves it. Look for how he feels."
      },
      {
       "t": "Mateo watched every flick of Tío's paintbrush as it tapped across the mask. Dot, dot, dot.",
-      "why": "This shows Mateo watching Tío closely. But watching does not prove that Mateo is excited."
+      "why": "This shows Mateo watching Tío closely. But watching does not prove that Mateo loves making masks."
      }
     ],
     "answer": 0
@@ -2997,6 +3005,7 @@ window.SETS = {
     "p": 0,
     "type": "ebsr",
     "skill": "Main idea of a few paragraphs + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "excerpt": [
      "Mateo's stomach did a flip. He picked up the paintbrush and dipped it in yellow paint. His hand trembled, and the first dot came out as a long smear. He peered down at the yellow streak. The paint was still wet.",
      "\"Breathe,\" Tío murmured. \"Slow hands make round dots.\"",
@@ -3025,7 +3034,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "He picked up the paintbrush and dipped it in yellow paint.",
@@ -3053,29 +3062,29 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Mateo is nervous about painting.",
+    "stem": "Select two sentences that best support the inference that Mateo feels uneasy about painting.",
     "pick": 2,
     "layout": "list",
     "pieces": [
      {
       "t": "Mateo's stomach did a flip.",
-      "why": "A flipping stomach and a trembling hand are clues that Mateo is nervous."
+      "why": "A flipping stomach and a trembling hand are clues that Mateo feels uneasy."
      },
      {
       "t": "He picked up the paintbrush and dipped it in yellow paint.",
-      "why": "This tells what Mateo does or sees. It does not prove he is nervous."
+      "why": "This tells what Mateo does or sees. It does not prove he feels uneasy."
      },
      {
       "t": "His hand trembled, and the first dot came out as a long smear.",
-      "why": "A flipping stomach and a trembling hand are clues that Mateo is nervous."
+      "why": "A flipping stomach and a trembling hand are clues that Mateo feels uneasy."
      },
      {
       "t": "He peered down at the yellow streak.",
-      "why": "This tells what Mateo does or sees. It does not prove he is nervous."
+      "why": "This tells what Mateo does or sees. It does not prove he feels uneasy."
      },
      {
       "t": "The paint was still wet.",
-      "why": "This tells what Mateo does or sees. It does not prove he is nervous."
+      "why": "This tells what Mateo does or sees. It does not prove he feels uneasy."
      }
     ],
     "answer": [
@@ -3097,7 +3106,7 @@ window.SETS = {
        "why": "The passage never talks about art school. Nothing in it proves this."
       },
       {
-       "t": "It takes a lot of hard work.",
+       "t": "You have to keep working at it for a long time.",
        "why": "Yes! Maya's first drawings were just scribbles, and she had to keep working. Answer first. Then find the proof."
       },
       {
@@ -3112,15 +3121,15 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Maya has loved to draw since she was six years old.",
-       "why": "This is true, but it does not prove that learning takes hard work. It tells when Maya started to love drawing."
+       "why": "This is true, but it does not prove that Maya had to keep working for a long time. It tells when Maya started to love drawing."
       },
       {
        "t": "Maya is an illustrator, an artist who draws the pictures for books.",
-       "why": "This tells what Maya's job is. It does not prove that learning to draw takes hard work."
+       "why": "This tells what Maya's job is. It does not show how long Maya worked to learn."
       },
       {
        "t": "\"I practiced every day for years before my pictures looked the way I wanted.\"",
@@ -3128,7 +3137,7 @@ window.SETS = {
       },
       {
        "t": "Some illustrators create their pictures on computers, but Maya prefers to paint by hand.",
-       "why": "This tells what tools illustrators use. It does not prove that learning takes hard work."
+       "why": "This tells what tools illustrators use. It does not show how long it takes to learn."
       }
      ],
      "answer": 2
@@ -3167,25 +3176,25 @@ window.SETS = {
     "p": 1,
     "type": "hottext",
     "skill": "Click the proof: the person's trait",
-    "stem": "The reader can conclude that Maya is careful with her work. Select the sentence that best supports this conclusion.",
+    "stem": "The reader can conclude that Maya pays close attention to small details. Select the sentence that best supports this conclusion.",
     "pick": 1,
     "layout": "list",
     "pieces": [
      {
       "t": "Maya tore open the parcel right away.",
-      "why": "Maya is eager to see the proofs. But hurrying does not show she is careful."
+      "why": "Maya is eager to see the proofs. But hurrying does not show she pays close attention to details."
      },
      {
       "t": "She spread the proofs across her drafting table.",
-      "why": "This tells where Maya puts the proofs. It does not prove she is careful."
+      "why": "This tells where Maya puts the proofs. It does not prove she pays close attention to details."
      },
      {
       "t": "Then she held each proof beside her painting and inspected every color through a magnifying glass.",
-      "why": "Yes! Maya checks every color up close with a magnifying glass. That shows she is careful."
+      "why": "Yes! Maya checks every color up close with a magnifying glass. That shows she pays close attention to small details."
      },
      {
       "t": "The next day, she returned the proofs to her editor.",
-      "why": "This tells what Maya does next. It does not prove she is careful."
+      "why": "This tells what Maya does next. It does not prove she pays close attention to details."
      }
     ],
     "answer": [
@@ -3198,8 +3207,9 @@ window.SETS = {
     "p": 2,
     "type": "ebsr",
     "skill": "The main problem + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
-     "q": "Which sentence best tells the main problem that loggerhead hatchlings face in the passage?",
+     "q": "Which sentence best tells the main problem loggerhead hatchlings face in the passage?",
      "choices": [
       {
        "t": "Mother turtles lay about one hundred eggs in each nest.",
@@ -3221,7 +3231,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Hatchlings find the ocean by instinct.",
@@ -3307,7 +3317,7 @@ window.SETS = {
      "answer": 3
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "After dark, Grandma and I sat quietly with Mr. Ruiz on the sand, a short distance from the nest.",
@@ -3335,7 +3345,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that sea turtles are like people in some ways. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that sea turtles and people have something in common. Which sentence from the passage best supports this inference?",
     "choices": [
      {
       "t": "She lays about 100 eggs, each one white and round, like a Ping-Pong ball.",
@@ -3343,7 +3353,7 @@ window.SETS = {
      },
      {
       "t": "Like people coming home after a long trip, many females return to nest near the beach where they hatched.",
-      "why": "Yes! The author compares the mother turtles to people coming home. That shows turtles are like people in some ways."
+      "why": "Yes! The author compares the mother turtles to people coming home after a long trip. That proves sea turtles and people have something in common."
      },
      {
       "t": "Its long front flippers move like wings, propelling it through the water.",
@@ -3385,7 +3395,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Each one was smaller than my palm.",
@@ -3639,15 +3649,15 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Lucía is excited to paint an alebrije?",
+    "stem": "Which sentences from the passage best support that Lucía can't wait to paint an alebrije?",
     "choices": [
      {
       "t": "Lucía had jumped out of bed before anyone else was awake. Today Abuelo would finally let her help paint an alebrije!",
-      "why": "Yes! She jumps out of bed early because today she gets to paint. That proves she is excited."
+      "why": "Yes! She jumps out of bed early because today she gets to paint. That proves she can't wait to paint."
      },
      {
       "t": "Lucía studied each stroke as the slender brush swept along the jaguar's back. Every line was crisp and even.",
-      "why": "This shows Lucía is paying attention. But watching closely does not prove she is excited."
+      "why": "This shows Lucía is paying attention. But watching closely does not prove she can't wait to paint."
      },
      {
       "t": "Then Abuelo set the jaguar on the workbench and handed Lucía the brush. \"The stripes on the tail are yours,\" he said.",
@@ -3655,7 +3665,7 @@ window.SETS = {
      },
      {
       "t": "This time the stripe was slim and straight! She painted another, and then another.",
-      "why": "This tells how well she painted. It does not prove she is excited."
+      "why": "This tells how well she painted. It does not show how she felt before she started."
      }
     ],
     "answer": 0
@@ -3666,6 +3676,7 @@ window.SETS = {
     "p": 0,
     "type": "ebsr",
     "skill": "Main idea of a few paragraphs + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "excerpt": [
      "Lucía's heart thumped in her chest. She dipped the brush into the little cup of black paint. She bit her lip as she lifted the brush. She pressed the bristles against the very tip of the tail. The stripe came out thick and wobbly.",
      "\"Too much paint,\" Abuelo said gently. \"Let me show you a trick.\"",
@@ -3694,7 +3705,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "She dipped the brush into the little cup of black paint.",
@@ -3722,29 +3733,29 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Lucía is nervous about painting.",
+    "stem": "Select two sentences that best support the inference that Lucía feels jittery about painting the tail.",
     "pick": 2,
     "layout": "list",
     "pieces": [
      {
       "t": "Lucía's heart thumped in her chest.",
-      "why": "A thumping heart and a bitten lip are clues that Lucía is nervous."
+      "why": "A thumping heart and a bitten lip are clues that Lucía feels jittery."
      },
      {
       "t": "She dipped the brush into the little cup of black paint.",
-      "why": "This tells what Lucía does or how the stripe looks. It does not prove she is nervous."
+      "why": "This tells what Lucía does or how the stripe looks. It does not prove she feels jittery."
      },
      {
       "t": "She bit her lip as she lifted the brush.",
-      "why": "A thumping heart and a bitten lip are clues that Lucía is nervous."
+      "why": "A thumping heart and a bitten lip are clues that Lucía feels jittery."
      },
      {
       "t": "She pressed the bristles against the very tip of the tail.",
-      "why": "This tells what Lucía does or how the stripe looks. It does not prove she is nervous."
+      "why": "This tells what Lucía does or how the stripe looks. It does not prove she feels jittery."
      },
      {
       "t": "The stripe came out thick and wobbly.",
-      "why": "This tells what Lucía does or how the stripe looks. It does not prove she is nervous."
+      "why": "This tells what Lucía does or how the stripe looks. It does not prove she feels jittery."
      }
     ],
     "answer": [
@@ -3762,7 +3773,7 @@ window.SETS = {
      "q": "Which of these conclusions about learning to be a luthier is supported by the passage?",
      "choices": [
       {
-       "t": "It takes a lot of practice.",
+       "t": "It takes many tries to get it right.",
        "why": "Yes! Teresa had to try again and again before she got it right. Answer first. Then find the proof."
       },
       {
@@ -3781,11 +3792,11 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Before Owen left, he asked Teresa how she had become a luthier.",
-       "why": "This is Owen's question. It does not show how much practice it takes."
+       "why": "This is Owen's question. It does not show how many tries it takes."
       },
       {
        "t": "\"I carved more than twenty bridges before one fit just right.\"",
@@ -3793,7 +3804,7 @@ window.SETS = {
       },
       {
        "t": "Each bridge must be carved by hand to fit one particular violin.",
-       "why": "This is true, but it does not prove that learning takes practice. It tells how a bridge is made."
+       "why": "This is true, but it does not prove that learning takes many tries. It tells how a bridge is made."
       },
       {
        "t": "The pressure of the tight strings holds it in place.",
@@ -3836,25 +3847,25 @@ window.SETS = {
     "p": 1,
     "type": "hottext",
     "skill": "Click the proof: the person's trait",
-    "stem": "The reader can conclude that Teresa is careful with her work. Select the sentence that best supports this conclusion.",
+    "stem": "The reader can conclude that Teresa is protective of the instruments she fixes. Select the sentence that best supports this conclusion.",
     "pick": 1,
     "layout": "list",
     "pieces": [
      {
       "t": "Teresa heated the glue in a small pot until it was warm and runny.",
-      "why": "This is one step of the job. It does not show that Teresa is careful."
+      "why": "This is one step of the job. It does not show that Teresa is protective."
      },
      {
       "t": "She slid a thin palette knife into the open seam to spread the glue inside.",
-      "why": "This tells how Teresa spreads the glue. It does not prove she is careful."
+      "why": "This tells how Teresa spreads the glue. It does not prove she is protective."
      },
      {
       "t": "Then she attached six small clamps along the edge.",
-      "why": "This tells how many clamps Teresa used. It does not prove she is careful."
+      "why": "This tells how many clamps Teresa used. It does not prove she is protective."
      },
      {
       "t": "She checked that a soft cork pad sat under each clamp so the wood would not get dented.",
-      "why": "Yes! Teresa checks every clamp so the wood will not get hurt. That shows she is careful."
+      "why": "Yes! Teresa checks every clamp so the wood will not get hurt. That shows she is protective of the instruments."
      }
     ],
     "answer": [
@@ -3867,8 +3878,9 @@ window.SETS = {
     "p": 2,
     "type": "ebsr",
     "skill": "The main problem + proof",
+    "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
-     "q": "Which sentence best tells the main problem that monarchs face in the passage?",
+     "q": "Which sentence best tells the main problem monarchs face in the passage?",
      "choices": [
       {
        "t": "Monarchs fly south to Mexico every fall.",
@@ -3890,7 +3902,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "So monarchs are losing the one plant their caterpillars can eat.",
@@ -3980,7 +3992,7 @@ window.SETS = {
      "answer": 3
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "While I waited for it to open, I read everything I could find about monarchs.",
@@ -4008,7 +4020,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that monarchs are like people in some ways. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that monarchs sometimes act the way people do. Which sentence from the passage best supports this inference?",
     "choices": [
      {
       "t": "It hung there like a little green lantern.",
@@ -4024,7 +4036,7 @@ window.SETS = {
      },
      {
       "t": "Thousands of them cluster together on a single tree, like people huddling close on a chilly night.",
-      "why": "Yes! The monarchs crowd together the way people huddle close on a cold night."
+      "why": "Yes! The monarchs crowd together the way people huddle close on a cold night. That proves monarchs sometimes act the way people do."
      }
     ],
     "answer": 3
@@ -4058,7 +4070,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence best supports your answer in Part A?",
+     "q": "Which sentence from the passage best supports your answer in part A?",
      "choices": [
       {
        "t": "Yet the whole butterfly weighs only about as much as a paper clip.",

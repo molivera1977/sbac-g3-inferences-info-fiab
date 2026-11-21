@@ -152,10 +152,13 @@
   const choicesHTML = (list, part, order = list.map((c, i) => i)) => `<div class="choices" role="radiogroup" aria-label="${part ? `Part ${part} choices` : 'Answer choices'}">${order.map((i, pos) => choiceHTML(list[i].t, i, part, pos)).join('')}</div>`;
   const sentHTML = (p, k) => `<span class="ht-sent" role="checkbox" aria-checked="false" tabindex="0" data-k="${k}">${sayHTML(p.t)}</span>`;
 
+  // the two-part intro in the real test's words (Grade 3 map, AVA 11/21); a draft that names the other real wording
+  // ("The following question has two parts. …") carries it in the data as it.intro
+  const TWO_PART_INTRO = 'This question has two parts. First, answer part A. Then, answer part B.';
   function stemHTML(it) {
     if (it.type === 'ebsr') {
-      const ex = it.excerpt ? ' Read these paragraphs from the passage.' : '';
-      return `<p class="ask">${sayHTML(`This question has two parts. Answer Part A and Part B.${ex}`)}</p>`;
+      const ex = it.excerpt ? ' Read the paragraphs from the passage.' : '';
+      return `<p class="ask">${sayHTML(`${it.intro || TWO_PART_INTRO}${ex}`)}</p>`;
     }
     const tip = it.type === 'hottext' ? (it.pick === 2 ? 'Tap 2 sentences. Tap one again to take it back.' : 'Tap 1 sentence.') : '';
     return `<p class="ask">${sayHTML(it.stem)}</p>${tip ? `<p class="ht-tip">${sayHTML(tip)}</p>` : ''}`;
