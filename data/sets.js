@@ -1,7 +1,7 @@
 /* Grade 3 Reading Practice: Make and Support Inferences, Informational Texts.
    BUILT by tools/build_data.py from drafts/*.md. Do not edit by hand: change the draft, then run
    python3 tools/build_data.py (and python3 tools/check_drafts.py).
-   drafts fingerprint: 52ba6c899115 */
+   drafts fingerprint: d2b335852dd3 */
 window.SETS = {
  "W": {
   "passages": [
@@ -171,7 +171,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "hint": "The main idea is what the whole passage is about. A detail tells about one part. Pick the choice that fits every part.",
     "choices": [
      {
@@ -199,7 +199,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Click the proof: how the child feels",
-    "stem": "The reader can infer that Pablo likes working with Abuelo, his grandfather. Click the sentence that best supports this inference.",
+    "stem": "The reader can infer that Pablo likes working with Abuelo, his grandfather. Click the sentence that **best** supports this inference.",
     "pick": 1,
     "layout": "list",
     "hint": "Read the idea in the question. Then read each sentence. Click the one that proves it the most.",
@@ -235,7 +235,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Pablo is happy working on the kite?",
+    "stem": "Which sentences from the passage **best** support that Pablo is happy working on the kite?",
     "hint": "Read the idea in the question. Look at each sentence. Ask: Does this prove the idea? A true sentence is not always proof.",
     "choices": [
      {
@@ -293,7 +293,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Pablo picked up a red square.",
@@ -321,7 +321,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Pablo is scared to glue the paper.",
+    "stem": "Select **two** sentences that **best** support the inference that Pablo is scared to glue the paper.",
     "pick": 2,
     "layout": "list",
     "hint": "You need two sentences. Each one must prove the idea by itself.",
@@ -382,7 +382,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Rosa started her day by inspecting her gear.",
@@ -410,7 +410,7 @@ window.SETS = {
     "p": 1,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "hint": "The main idea is what the whole passage is about. A detail tells about one part. Pick the choice that fits every part.",
     "choices": [
      {
@@ -438,7 +438,7 @@ window.SETS = {
     "p": 1,
     "type": "hottext",
     "skill": "Click the proof: the person's trait",
-    "stem": "The reader can conclude that Rosa is quick when the alarm rings. Select the sentence that best supports this conclusion.",
+    "stem": "The reader can conclude that Rosa is quick when the alarm rings. Select the sentence that **best** supports this conclusion.",
     "pick": 1,
     "layout": "list",
     "hint": "Look at what the person does, says and feels. Those are your clues.",
@@ -473,7 +473,7 @@ window.SETS = {
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "hint": "The problem is the big trouble. The fix is not the problem. The problem comes first.",
     "partA": {
-     "q": "Which sentence best tells the main problem box turtles face in the passage?",
+     "q": "Which sentence **best** tells the main problem box turtles face in the passage?",
      "choices": [
       {
        "t": "Box turtles eat worms and berries.",
@@ -495,7 +495,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Box turtles live on land, in woodlands and grassy fields.",
@@ -523,7 +523,7 @@ window.SETS = {
     "p": 2,
     "type": "hottext",
     "skill": "Click the main idea of a paragraph",
-    "stem": "Select one sentence that best shows the main idea of the paragraph.",
+    "stem": "Select **one** sentence that **best** shows the main idea of the paragraph.",
     "pick": 1,
     "layout": "para",
     "hint": "Read the whole paragraph. Which choice tells what all the sentences are about?",
@@ -583,7 +583,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
+     "q": "Which sentence from the passage **best** supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "Its domed brown shell was speckled with bright yellow spots.",
@@ -611,7 +611,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that box turtles do something people do too. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that box turtles do something people do too. Which sentence from the passage **best** supports this inference?",
     "hint": "Read the idea in the question. Look at each sentence. Ask: Does this prove the idea? A true sentence is not always proof.",
     "choices": [
      {
@@ -663,7 +663,7 @@ window.SETS = {
      "answer": 3
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "When I crouched down to look closer, the turtle tucked its head and legs inside its shell.",
@@ -852,7 +852,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "hint": "The main idea is what the whole passage is about. A detail tells about one part. Pick the choice that fits every part.",
     "choices": [
      {
@@ -880,7 +880,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Click the proof: how the child feels",
-    "stem": "The reader can infer that Carmen is thankful for her grandma's help. Click the sentence that best supports this inference.",
+    "stem": "The reader can infer that Carmen is thankful for her grandma's help. Click the sentence that **best** supports this inference.",
     "pick": 1,
     "layout": "list",
     "hint": "Read the idea in the question. Then read each sentence. Click the one that proves it the most.",
@@ -916,7 +916,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Carmen wants to finish the piñata right away?",
+    "stem": "Which sentences from the passage **best** support that Carmen wants to finish the piñata right away?",
     "hint": "Read the idea in the question. Look at each sentence. Ask: Does this prove the idea? A true sentence is not always proof.",
     "choices": [
      {
@@ -974,7 +974,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "She looked at the little gold bits on the table.",
@@ -1002,7 +1002,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Carmen is worried about her mistake.",
+    "stem": "Select **two** sentences that **best** support the inference that Carmen is worried about her mistake.",
     "pick": 2,
     "layout": "list",
     "hint": "You need two sentences. Each one must prove the idea by itself.",
@@ -1063,7 +1063,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "\"When I started, it took me weeks of practice to get fast,\" Sam said.",
@@ -1091,7 +1091,7 @@ window.SETS = {
     "p": 1,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "hint": "The main idea is what the whole passage is about. A detail tells about one part. Pick the choice that fits every part.",
     "choices": [
      {
@@ -1119,7 +1119,7 @@ window.SETS = {
     "p": 1,
     "type": "hottext",
     "skill": "Click the proof: the person's trait",
-    "stem": "The reader can conclude that Sam is friendly. Select the sentence that best supports this conclusion.",
+    "stem": "The reader can conclude that Sam is friendly. Select the sentence that **best** supports this conclusion.",
     "pick": 1,
     "layout": "list",
     "hint": "Look at what the person does, says and feels. Those are your clues.",
@@ -1154,7 +1154,7 @@ window.SETS = {
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "hint": "The problem is the big trouble. The fix is not the problem. The problem comes first.",
     "partA": {
-     "q": "Which sentence best tells the main problem young robins face in the passage?",
+     "q": "Which sentence **best** tells the main problem young robins face in the passage?",
      "choices": [
       {
        "t": "Robins eat earthworms, insects, and berries.",
@@ -1176,7 +1176,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Then she lined the inside with soft, dry grass.",
@@ -1204,7 +1204,7 @@ window.SETS = {
     "p": 2,
     "type": "hottext",
     "skill": "Click the main idea of a paragraph",
-    "stem": "Select one sentence that best shows the main idea of the paragraph.",
+    "stem": "Select **one** sentence that **best** shows the main idea of the paragraph.",
     "pick": 1,
     "layout": "para",
     "hint": "Read the whole paragraph. Which choice tells what all the sentences are about?",
@@ -1264,7 +1264,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
+     "q": "Which sentence from the passage **best** supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "I asked Mom to keep Pepper inside until all the fledglings could fly.",
@@ -1292,7 +1292,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that robins and people sometimes do the same thing. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that robins and people sometimes do the same thing. Which sentence from the passage **best** supports this inference?",
     "hint": "Read the idea in the question. Look at each sentence. Ask: Does this prove the idea? A true sentence is not always proof.",
     "choices": [
      {
@@ -1344,7 +1344,7 @@ window.SETS = {
      "answer": 3
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Soon there were four sky-blue eggs in the nest.",
@@ -1542,7 +1542,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "choices": [
      {
       "t": "Grandma cuts squares of cloth from old clothes.",
@@ -1569,7 +1569,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Click the proof: how the child feels",
-    "stem": "The reader can infer that Eli is grateful to his grandmother. Click the sentence that best supports this inference.",
+    "stem": "The reader can infer that Eli is grateful to his grandmother. Click the sentence that **best** supports this inference.",
     "pick": 1,
     "layout": "list",
     "pieces": [
@@ -1604,7 +1604,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Eli is eager to start sewing?",
+    "stem": "Which sentences from the passage **best** support that Eli is eager to start sewing?",
     "choices": [
      {
       "t": "Snip, snip, snip! Eli heard Grandma's big scissors from the hallway.",
@@ -1660,7 +1660,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Eli sewed two squares together with tidy stitches.",
@@ -1688,7 +1688,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Eli feels afraid when it is time to sew.",
+    "stem": "Select **two** sentences that **best** support the inference that Eli feels afraid when it is time to sew.",
     "pick": 2,
     "layout": "list",
     "pieces": [
@@ -1747,7 +1747,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Inside the truck, which was almost as long as a school bus, shelves of books covered the walls.",
@@ -1775,7 +1775,7 @@ window.SETS = {
     "p": 1,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "choices": [
      {
       "t": "Every family in Iowa borrows all of its books from a bookmobile like Ms. Lee's.",
@@ -1802,7 +1802,7 @@ window.SETS = {
     "p": 1,
     "type": "hottext",
     "skill": "Click the proof: the person's trait",
-    "stem": "The reader can conclude that Ms. Lee is patient. Select the sentence that best supports this conclusion.",
+    "stem": "The reader can conclude that Ms. Lee is patient. Select the sentence that **best** supports this conclusion.",
     "pick": 1,
     "layout": "list",
     "pieces": [
@@ -1835,7 +1835,7 @@ window.SETS = {
     "skill": "The main problem + proof",
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
-     "q": "Which sentence best tells the main problem beavers face in the passage?",
+     "q": "Which sentence **best** tells the main problem beavers face in the passage?",
      "choices": [
       {
        "t": "Beavers' front teeth never stop growing, but gnawing keeps them short.",
@@ -1857,7 +1857,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "They have webbed back feet for swimming and a flat, scaly tail that helps them steer.",
@@ -1885,7 +1885,7 @@ window.SETS = {
     "p": 2,
     "type": "hottext",
     "skill": "Click the main idea of a paragraph",
-    "stem": "Select one sentence that best shows the main idea of the paragraph.",
+    "stem": "Select **one** sentence that **best** shows the main idea of the paragraph.",
     "pick": 1,
     "layout": "para",
     "pieces": [
@@ -1939,7 +1939,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
+     "q": "Which sentence from the passage **best** supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "I jumped so high that I almost fell in.",
@@ -1967,7 +1967,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that beavers share a habit with people. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that beavers share a habit with people. Which sentence from the passage **best** supports this inference?",
     "choices": [
      {
       "t": "A beaver's front teeth are orange because they have iron in them, which makes them very strong.",
@@ -2017,7 +2017,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Beavers are the largest rodents in North America.",
@@ -2230,7 +2230,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "choices": [
      {
       "t": "Aunt Hattie sells baskets at a roadside stand.",
@@ -2257,7 +2257,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Click the proof: how the child feels",
-    "stem": "The reader can infer that Nia is proud of her aunt. Click the sentence that best supports this inference.",
+    "stem": "The reader can infer that Nia is proud of her aunt. Click the sentence that **best** supports this inference.",
     "pick": 1,
     "layout": "list",
     "pieces": [
@@ -2292,7 +2292,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Nia is looking forward to making her first basket?",
+    "stem": "Which sentences from the passage **best** support that Nia is looking forward to making her first basket?",
     "choices": [
      {
       "t": "Swish, swish! Nia brushed her palm across a bundle of dry sweetgrass.",
@@ -2348,7 +2348,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "The skill first came from West Africa.",
@@ -2376,7 +2376,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Nia feels frightened as she begins to sew.",
+    "stem": "Select **two** sentences that **best** support the inference that Nia feels frightened as she begins to sew.",
     "pick": 2,
     "layout": "list",
     "pieces": [
@@ -2435,7 +2435,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "\"A giraffe can't tell me when something hurts,\" Dana said, \"so I have to notice everything.\"",
@@ -2463,7 +2463,7 @@ window.SETS = {
     "p": 1,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "choices": [
      {
       "t": "All the animals at the zoo eat leaves and lettuce, just like Dana's giraffes do.",
@@ -2490,7 +2490,7 @@ window.SETS = {
     "p": 1,
     "type": "hottext",
     "skill": "Click the proof: the person's trait",
-    "stem": "The reader can conclude that Dana is helpful to the visitors. Select the sentence that best supports this conclusion.",
+    "stem": "The reader can conclude that Dana is helpful to the visitors. Select the sentence that **best** supports this conclusion.",
     "pick": 1,
     "layout": "list",
     "pieces": [
@@ -2523,7 +2523,7 @@ window.SETS = {
     "skill": "The main problem + proof",
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
-     "q": "Which sentence best tells the main problem hummingbirds face in the passage?",
+     "q": "Which sentence **best** tells the main problem hummingbirds face in the passage?",
      "choices": [
       {
        "t": "They can get hurt by flying into windows.",
@@ -2545,7 +2545,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Its wings beat about 50 times each second, and that makes the hum.",
@@ -2573,7 +2573,7 @@ window.SETS = {
     "p": 2,
     "type": "hottext",
     "skill": "Click the main idea of a paragraph",
-    "stem": "Select one sentence that best shows the main idea of the paragraph.",
+    "stem": "Select **one** sentence that **best** shows the main idea of the paragraph.",
     "pick": 1,
     "layout": "para",
     "pieces": [
@@ -2631,7 +2631,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
+     "q": "Which sentence from the passage **best** supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "Then, on the fourth morning, I heard a tiny hum, like a bee.",
@@ -2659,7 +2659,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that hummingbirds and kids are alike in one way. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that hummingbirds and kids are alike in one way. Which sentence from the passage **best** supports this inference?",
     "choices": [
      {
       "t": "Then, on the fourth morning, I heard a tiny hum, like a bee.",
@@ -2709,7 +2709,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "At the end of summer, hummingbirds eat and eat until they are plump.",
@@ -2916,7 +2916,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "choices": [
      {
       "t": "Tío Ángel stays up late to finish Carnival masks.",
@@ -2943,7 +2943,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Click the proof: how the child feels",
-    "stem": "The reader can infer that Mateo looks up to his uncle. Click the sentence that best supports this inference.",
+    "stem": "The reader can infer that Mateo looks up to his uncle. Click the sentence that **best** supports this inference.",
     "pick": 1,
     "layout": "list",
     "pieces": [
@@ -2978,7 +2978,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Mateo loves making masks?",
+    "stem": "Which sentences from the passage **best** support that Mateo loves making masks?",
     "choices": [
      {
       "t": "Mateo grinned. Making masks was his favorite part of the day.",
@@ -3034,7 +3034,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "He picked up the paintbrush and dipped it in yellow paint.",
@@ -3062,7 +3062,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Mateo feels uneasy about painting.",
+    "stem": "Select **two** sentences that **best** support the inference that Mateo feels uneasy about painting.",
     "pick": 2,
     "layout": "list",
     "pieces": [
@@ -3121,7 +3121,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Maya has loved to draw since she was six years old.",
@@ -3149,7 +3149,7 @@ window.SETS = {
     "p": 1,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "choices": [
      {
       "t": "Every picture book takes almost two years to make, no matter who draws it.",
@@ -3176,7 +3176,7 @@ window.SETS = {
     "p": 1,
     "type": "hottext",
     "skill": "Click the proof: the person's trait",
-    "stem": "The reader can conclude that Maya pays close attention to small details. Select the sentence that best supports this conclusion.",
+    "stem": "The reader can conclude that Maya pays close attention to small details. Select the sentence that **best** supports this conclusion.",
     "pick": 1,
     "layout": "list",
     "pieces": [
@@ -3209,7 +3209,7 @@ window.SETS = {
     "skill": "The main problem + proof",
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
-     "q": "Which sentence best tells the main problem loggerhead hatchlings face in the passage?",
+     "q": "Which sentence **best** tells the main problem loggerhead hatchlings face in the passage?",
      "choices": [
       {
        "t": "Mother turtles lay about one hundred eggs in each nest.",
@@ -3231,7 +3231,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Hatchlings find the ocean by instinct.",
@@ -3259,7 +3259,7 @@ window.SETS = {
     "p": 2,
     "type": "hottext",
     "skill": "Click the main idea of a paragraph",
-    "stem": "Select one sentence that best shows the main idea of the paragraph.",
+    "stem": "Select **one** sentence that **best** shows the main idea of the paragraph.",
     "pick": 1,
     "layout": "para",
     "pieces": [
@@ -3317,7 +3317,7 @@ window.SETS = {
      "answer": 3
     },
     "partB": {
-     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
+     "q": "Which sentence from the passage **best** supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "After dark, Grandma and I sat quietly with Mr. Ruiz on the sand, a short distance from the nest.",
@@ -3345,7 +3345,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that sea turtles and people have something in common. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that sea turtles and people have something in common. Which sentence from the passage **best** supports this inference?",
     "choices": [
      {
       "t": "She lays about 100 eggs, each one white and round, like a Ping-Pong ball.",
@@ -3395,7 +3395,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Each one was smaller than my palm.",
@@ -3587,7 +3587,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "choices": [
      {
       "t": "Abuelo has been carving alebrijes for forty years.",
@@ -3614,7 +3614,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Click the proof: how the child feels",
-    "stem": "The reader can infer that Lucía is proud of her grandfather. Click the sentence that best supports this inference.",
+    "stem": "The reader can infer that Lucía is proud of her grandfather. Click the sentence that **best** supports this inference.",
     "pick": 1,
     "layout": "list",
     "pieces": [
@@ -3649,7 +3649,7 @@ window.SETS = {
     "p": 0,
     "type": "mc",
     "skill": "Which sentences support the idea",
-    "stem": "Which sentences from the passage best support that Lucía can't wait to paint an alebrije?",
+    "stem": "Which sentences from the passage **best** support that Lucía can't wait to paint an alebrije?",
     "choices": [
      {
       "t": "Lucía had jumped out of bed before anyone else was awake. Today Abuelo would finally let her help paint an alebrije!",
@@ -3705,7 +3705,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "She dipped the brush into the little cup of black paint.",
@@ -3733,7 +3733,7 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Select two: proof of a feeling",
-    "stem": "Select two sentences that best support the inference that Lucía feels jittery about painting the tail.",
+    "stem": "Select **two** sentences that **best** support the inference that Lucía feels jittery about painting the tail.",
     "pick": 2,
     "layout": "list",
     "pieces": [
@@ -3792,7 +3792,7 @@ window.SETS = {
      "answer": 0
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Before Owen left, he asked Teresa how she had become a luthier.",
@@ -3820,7 +3820,7 @@ window.SETS = {
     "p": 1,
     "type": "mc",
     "skill": "Main idea of the passage",
-    "stem": "Which sentence best describes the main idea of the passage?",
+    "stem": "Which sentence **best** describes the main idea of the passage?",
     "choices": [
      {
       "t": "Every violin gets an open seam in winter, when the air is very dry.",
@@ -3847,7 +3847,7 @@ window.SETS = {
     "p": 1,
     "type": "hottext",
     "skill": "Click the proof: the person's trait",
-    "stem": "The reader can conclude that Teresa is protective of the instruments she fixes. Select the sentence that best supports this conclusion.",
+    "stem": "The reader can conclude that Teresa is protective of the instruments she fixes. Select the sentence that **best** supports this conclusion.",
     "pick": 1,
     "layout": "list",
     "pieces": [
@@ -3880,7 +3880,7 @@ window.SETS = {
     "skill": "The main problem + proof",
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
-     "q": "Which sentence best tells the main problem monarchs face in the passage?",
+     "q": "Which sentence **best** tells the main problem monarchs face in the passage?",
      "choices": [
       {
        "t": "Monarchs fly south to Mexico every fall.",
@@ -3902,7 +3902,7 @@ window.SETS = {
      "answer": 1
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "So monarchs are losing the one plant their caterpillars can eat.",
@@ -3930,7 +3930,7 @@ window.SETS = {
     "p": 2,
     "type": "hottext",
     "skill": "Click the main idea of a paragraph",
-    "stem": "Select one sentence that best shows the main idea of the paragraph.",
+    "stem": "Select **one** sentence that **best** shows the main idea of the paragraph.",
     "pick": 1,
     "layout": "para",
     "pieces": [
@@ -3992,7 +3992,7 @@ window.SETS = {
      "answer": 3
     },
     "partB": {
-     "q": "Which sentence from the passage best supports the conclusion drawn in part A?",
+     "q": "Which sentence from the passage **best** supports the conclusion drawn in part A?",
      "choices": [
       {
        "t": "While I waited for it to open, I read everything I could find about monarchs.",
@@ -4020,7 +4020,7 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that monarchs sometimes act the way people do. Which sentence from the passage best supports this inference?",
+    "stem": "The reader can infer that monarchs sometimes act the way people do. Which sentence from the passage **best** supports this inference?",
     "choices": [
      {
       "t": "It hung there like a little green lantern.",
@@ -4070,7 +4070,7 @@ window.SETS = {
      "answer": 2
     },
     "partB": {
-     "q": "Which sentence from the passage best supports your answer in part A?",
+     "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
        "t": "Yet the whole butterfly weighs only about as much as a paper clip.",
