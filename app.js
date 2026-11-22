@@ -94,7 +94,8 @@
 
   /* ------------------------------------------------------------ words for an item */
   const TYPE_LABEL = { mc: 'Multiple choice', ebsr: 'Two parts' };
-  const typeLabel = it => (it.type === 'hottext' ? (it.pick === 2 ? 'Select two sentences' : 'Click one sentence') : TYPE_LABEL[it.type]);
+  // one sentence: the label says the question's own verb, Click or Select, as the two-sentence label does (Proctor 11/21)
+  const typeLabel = it => (it.type === 'hottext' ? (it.pick === 2 ? 'Select two sentences' : /\bClick\b/.test(it.stem) ? 'Click one sentence' : 'Select one sentence') : TYPE_LABEL[it.type]);
   const questionText = it => (it.type === 'ebsr' ? `Part A: ${it.partA.q} Part B: ${it.partB.q}` : it.stem);
   function answerText(it, ord = BOOK) {
     const L = (part, d) => 'ABCD'[ord(part, d.choices.length).indexOf(d.answer)];
