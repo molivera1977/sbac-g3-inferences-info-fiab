@@ -1,7 +1,7 @@
 /* Grade 3 Reading Practice: Make and Support Inferences, Informational Texts.
    BUILT by tools/build_data.py from drafts/*.md. Do not edit by hand: change the draft, then run
    python3 tools/build_data.py (and python3 tools/check_drafts.py).
-   drafts fingerprint: 52e8c455d684 */
+   drafts fingerprint: 0d21763fc5c1 */
 window.SETS = {
  "W": {
   "passages": [
@@ -1483,53 +1483,50 @@ window.SETS = {
     "credit": "Written for this practice test."
    },
    {
-    "title": "The Pond Builders",
+    "title": "The Checkerboard Bird",
     "subtitle": "",
     "blocks": [
      {
-      "p": "Last summer, Grandpa and I sat on a boulder beside a pond in northern Minnesota. At dusk, a V-shaped ripple moved across the still water. At the front of the V was a brown, furry head."
+      "p": "Last September, my soccer team practiced at a park in Iowa. At the edge of the field stood a tall, dead oak. It had no leaves, and most of its bark had peeled away. One afternoon, I stood on the sideline, waiting to kick the ball. Suddenly, a bird swooped off that snag¹. It snatched something right out of the air."
      },
      {
-      "p": "\"Beaver,\" Grandpa whispered. \"Stay still and watch.\""
+      "p": "The bird perched on a high branch. Its whole head was crimson, the deep red of a ripe cherry. Its body was snow white. Its black wings had big white squares on them. Its beak looked like a small gray chisel. \"That's a red-headed woodpecker,\" our coach whispered. \"It's catching insects.\""
      },
      {
-      "p": "I leaned forward, and my foot slipped. SLAP! The beaver smacked its flat tail on the water and plunged out of sight. I jumped so high that I almost fell in. \"That slap is a warning signal,\" Grandpa said. \"It tells other beavers that danger might be near.\""
+      "p": "Again and again, the red-headed woodpecker darted out, grabbed an insect, and zoomed back to the snag. I missed two passes because I kept glancing up at the tree."
      },
      {
-      "p": "While we waited, Grandpa told me about beavers."
+      "p": "Red-headed woodpeckers are a little bigger than a robin. Their crimson, white, and black feathers are so bold that some people call them \"flying checkerboards.\""
      },
      {
-      "p": "Beavers are the largest rodents in North America. They have webbed back feet for swimming and a flat, scaly tail that helps them balance. A beaver can stay underwater for about 15 minutes."
+      "p": "In summer, red-headed woodpeckers catch many insects, such as beetles and cicadas. They also eat berries, fruit, and corn. In fall and winter, much of their food comes from oak and beech trees. A red-headed woodpecker's food changes with the seasons."
      },
      {
-      "p": "A beaver's front teeth are orange because they have iron in them, which makes them very strong. The teeth never stop growing, but gnawing wood keeps them short. With these teeth, a beaver can cut down trees, peel off bark to eat, and carry sticks. A beaver's teeth are its most important tools."
+      "p": "Most woodpeckers find their prey by pecking into wood. Red-headed woodpeckers also hunt another way. They perch very still on a branch or a fence post and watch for flying beetles and gnats. When a gnat buzzes past, the woodpecker swoops out and grabs it, like an outfielder catching a fly ball."
      },
      {
-      "p": "Beavers do not eat fish. They eat leaves, roots, and the soft bark of aspen and willow trees. A beaver turns a stick in its front paws as it chews, just like a person eating corn on the cob. In the fall, beavers stash branches in the mud at the bottom of the pond, so they have food under the ice all winter."
+      "p": "In spring, a pair of red-headed woodpeckers builds a nest inside a snag or a dead branch. The male does most of the carving. He uses his sturdy, pointed beak to carve out a deep cavity². The chicks hatch with their eyes shut. About a month later, they leave the nest. A young red-headed woodpecker starts out with a brown head. Many pairs use the same cavity year after year."
      },
      {
-      "p": "Beavers build dams across streams with sticks, mud, and rocks. Each dam holds back the water and makes a deep pond. In the pond, the beavers build a lodge¹ of sticks and mud, with underwater doors so that predators like wolves and coyotes cannot get in. If water leaks through the dam, the beavers hurry to patch the hole with fresh mud and sticks."
+      "p": "Red-headed woodpeckers are not very big. But they do not let other birds push them around. They often chase intruders away from their snags. They will even pick fights with woodpeckers that are much bigger than they are."
      },
      {
-      "p": "Every spring, a mother beaver has a few babies, called kits. The kits live with their parents for about two years and help care for their new baby brothers and sisters. Then they leave to build homes of their own."
+      "p": "Sadly, red-headed woodpeckers are getting harder to find. In the last sixty years, about half of them have disappeared. These birds need snags for their nest cavities. But people often cut down snags and trim off dead branches. So red-headed woodpeckers have fewer and fewer places to raise their young."
      },
      {
-      "p": "For hundreds of years, trappers caught beavers for their thick fur, which was made into fashionable hats. Beavers almost vanished from many places. Laws helped them come back, but today beavers face a different danger. Many wetlands² have been drained or filled in to make room for farms, roads, and houses. When a wetland disappears, the beavers that live there lose their home."
-     },
-     {
-      "p": "Just as the sky turned dark, the beaver swam back, pulling a leafy branch toward its lodge. \"It will work all night,\" Grandpa said softly. I felt lucky to watch such an amazing builder up close. I hope beavers will always have wetlands to call home."
+      "p": "The next week, I brought my binoculars to practice. The checkerboard bird was back on its snag, watching for prey. I still could not believe that a woodpecker could snatch insects right out of the air."
      }
     ],
     "footnotes": [
      {
       "mark": "¹",
-      "word": "lodge",
-      "meaning": "a beaver's home, made of sticks and mud"
+      "word": "snag",
+      "meaning": "a dead tree that has not fallen down"
      },
      {
       "mark": "²",
-      "word": "wetland",
-      "meaning": "land that is soggy or covered with shallow water, like a marsh or a swamp"
+      "word": "cavity",
+      "meaning": "a hole inside something, such as a tree"
      }
     ],
     "credit": "Written for this practice test."
@@ -1835,23 +1832,23 @@ window.SETS = {
     "skill": "The main problem + proof",
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
-     "q": "Which sentence **best** tells the main problem beavers face in the passage?",
+     "q": "Which sentence **best** tells the main problem red-headed woodpeckers face in the passage?",
      "choices": [
       {
-       "t": "Beavers' front teeth never stop growing, but gnawing keeps them short.",
-       "why": "This is true, but it is not a problem. It tells how beaver teeth stay the right size."
+       "t": "Red-headed woodpeckers eat many kinds of food.",
+       "why": "This is true, but it is not a problem. It tells what these woodpeckers eat."
       },
       {
-       "t": "Beavers can lose their homes when wetlands are drained or filled in.",
-       "why": "Yes! When wetlands are drained or filled in, beavers lose the places where they live. Answer first. Then find the proof."
+       "t": "Red-headed woodpeckers are losing places to nest.",
+       "why": "Yes! People cut down the dead trees these birds need, so there are fewer places to raise their young. Answer first. Then find the proof."
       },
       {
-       "t": "Beavers build dams across streams with sticks, mud, and rocks.",
-       "why": "This is true, but it is not a problem. Building dams is how beavers make their ponds."
+       "t": "Red-headed woodpeckers catch insects in midair.",
+       "why": "This is true, but it is not a problem. It tells how these woodpeckers hunt."
       },
       {
-       "t": "Laws helped beavers come back to many places.",
-       "why": "This is good news. The fix is not the problem. The problem comes first."
+       "t": "Red-headed woodpeckers chase intruders away.",
+       "why": "This is true, but it is not the big trouble. It tells how these birds guard their trees."
       }
      ],
      "answer": 1
@@ -1860,20 +1857,20 @@ window.SETS = {
      "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
-       "t": "They have webbed back feet for swimming and a flat, scaly tail that helps them balance.",
-       "why": "This tells about a beaver's body. It is not a problem."
+       "t": "They also eat berries, fruit, and corn.",
+       "why": "This tells about food. It does not show a problem."
       },
       {
-       "t": "Each dam holds back the water and makes a deep pond.",
-       "why": "This tells what a dam does. It does not show a problem."
+       "t": "When a gnat buzzes past, the woodpecker swoops out and grabs it, like an outfielder catching a fly ball.",
+       "why": "This tells how the woodpecker catches insects. It is not a problem."
       },
       {
-       "t": "Beavers almost vanished from many places.",
-       "why": "This was a problem long ago, from trapping. It does not tell what happens when wetlands disappear."
+       "t": "They often chase intruders away from their snags.",
+       "why": "This tells how the birds guard their snags. It does not show the big trouble."
       },
       {
-       "t": "When a wetland disappears, the beavers that live there lose their home.",
-       "why": "Yes! When a wetland is gone, the beavers lose their home. Part B is your Detail. It proves your Part A answer."
+       "t": "So red-headed woodpeckers have fewer and fewer places to raise their young.",
+       "why": "Yes! With fewer places to raise their young, these woodpeckers are losing places to nest. Part B is your Detail. It proves your Part A answer."
       }
      ],
      "answer": 3
@@ -1890,20 +1887,20 @@ window.SETS = {
     "layout": "para",
     "pieces": [
      {
-      "t": "A beaver's front teeth are orange because they have iron in them, which makes them very strong.",
-      "why": "This tells the color of the teeth and why they are strong. That is one detail. The main idea tells what the whole paragraph is about."
+      "t": "In summer, red-headed woodpeckers catch many insects, such as beetles and cicadas.",
+      "why": "This tells only about summer insects. That is one detail. The main idea tells what the whole paragraph is about."
      },
      {
-      "t": "The teeth never stop growing, but gnawing wood keeps them short.",
-      "why": "This tells one fact about the teeth. It is a detail."
+      "t": "They also eat berries, fruit, and corn.",
+      "why": "This tells about some plant foods. It is a detail."
      },
      {
-      "t": "With these teeth, a beaver can cut down trees, peel off bark to eat, and carry sticks.",
-      "why": "This tells some jobs the teeth do. It is a detail. Look for the sentence that tells what all the sentences are about."
+      "t": "In fall and winter, much of their food comes from oak and beech trees.",
+      "why": "This tells only about food in fall and winter. It is a detail. Look for the sentence that tells what all the sentences are about."
      },
      {
-      "t": "A beaver's teeth are its most important tools.",
-      "why": "Yes! Every sentence in the paragraph tells about the beaver's teeth and how the beaver uses them. This sentence tells what they are all about."
+      "t": "A red-headed woodpecker's food changes with the seasons.",
+      "why": "Yes! The paragraph tells what these woodpeckers eat in summer and what they eat in fall and winter. This sentence tells what they are all about."
      }
     ],
     "answer": [
@@ -1917,48 +1914,48 @@ window.SETS = {
     "type": "ebsr",
     "skill": "The author's feelings + proof",
     "partA": {
-     "q": "Which of these conclusions about the author's feelings about beavers is supported by the passage?",
+     "q": "Which of these conclusions about the author's feelings about red-headed woodpeckers is supported by the passage?",
      "choices": [
       {
-       "t": "The author is afraid of beavers.",
-       "why": "The author jumps when the tail slaps. But that is surprise, and the author stays to watch until dark."
+       "t": "The author feels sorry for the dead oak tree.",
+       "why": "The author tells what the dead tree looks like. Nothing shows that the author feels sorry for it."
       },
       {
-       "t": "The author admires beavers.",
-       "why": "Yes! The author watches until dark and feels lucky to see the beaver at work. Answer first. Then find the proof."
+       "t": "The author wants to catch the woodpecker.",
+       "why": "The author only watches the woodpecker, even with binoculars. Nothing shows the author wants to catch it."
       },
       {
-       "t": "The author thinks beavers cause trouble.",
-       "why": "The author never says beavers cause trouble. The passage does not support this."
+       "t": "The author is amazed by the woodpecker.",
+       "why": "Yes! The author still can hardly believe what the woodpecker can do. Answer first. Then find the proof."
       },
       {
-       "t": "The author is bored by beavers.",
-       "why": "The author waits and watches until dark. Someone who was bored would leave."
+       "t": "The author thinks woodpeckers are boring.",
+       "why": "The author watches the woodpecker during practice and comes back with binoculars. That is not boring."
       }
      ],
-     "answer": 1
+     "answer": 2
     },
     "partB": {
      "q": "Which sentence from the passage **best** supports the conclusion drawn in part A?",
      "choices": [
       {
-       "t": "I jumped so high that I almost fell in.",
-       "why": "This shows the author was surprised by the slap. It does not show how the author feels about beavers."
+       "t": "It had no leaves, and most of its bark had peeled away.",
+       "why": "This tells what the dead tree looks like. It does not show how the author feels about woodpeckers."
       },
       {
-       "t": "Beavers are the largest rodents in North America.",
-       "why": "This is a fact about beavers. It does not tell the author's feelings."
+       "t": "Red-headed woodpeckers are a little bigger than a robin.",
+       "why": "This is a fact about the birds' size. It does not tell the author's feelings."
       },
       {
-       "t": "I felt lucky to watch such an amazing builder up close.",
-       "why": "Yes! The author feels lucky and calls the beaver an amazing builder. Part B is your Detail. It proves your Part A answer."
+       "t": "But people often cut down snags and trim off dead branches.",
+       "why": "This is a fact about what people do. It does not tell how the author feels."
       },
       {
-       "t": "\"It will work all night,\" Grandpa said softly.",
-       "why": "These are Grandpa's words. Look for the author's own feelings."
+       "t": "I still could not believe that a woodpecker could snatch insects right out of the air.",
+       "why": "Yes! The author can hardly believe it, even a week later. Part B is your Detail. It proves your Part A answer."
       }
      ],
-     "answer": 2
+     "answer": 3
     }
    },
    {
@@ -1967,23 +1964,23 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that beavers share a habit with people. Which sentence from the passage **best** supports this inference?",
+    "stem": "The reader can infer that red-headed woodpeckers can act as people do. Which sentence from the passage **best** supports this inference?",
     "choices": [
      {
-      "t": "A beaver's front teeth are orange because they have iron in them, which makes them very strong.",
-      "why": "This tells why a beaver's teeth are strong. It does not compare beavers to people."
+      "t": "Its beak looked like a small gray chisel.",
+      "why": "This compares the beak to a chisel. A chisel is a tool, not a person."
      },
      {
-      "t": "A beaver can stay underwater for about 15 minutes.",
-      "why": "Most people could never do this. That is no proof that beavers share a habit with people."
+      "t": "They perch very still on a branch or a fence post and watch for flying beetles and gnats.",
+      "why": "This tells how the woodpeckers wait for insects. It does not compare them to people."
      },
      {
-      "t": "A beaver turns a stick in its front paws as it chews, just like a person eating corn on the cob.",
-      "why": "Yes! A beaver turns a stick in its paws as it chews, just like a person eating corn on the cob. That proves beavers share a habit with people."
+      "t": "When a gnat buzzes past, the woodpecker swoops out and grabs it, like an outfielder catching a fly ball.",
+      "why": "Yes! The author compares the woodpecker to an outfielder catching a ball. An outfielder is a person, so this proves red-headed woodpeckers can act as people do."
      },
      {
-      "t": "The teeth never stop growing, but gnawing wood keeps them short.",
-      "why": "This is true, but it does not prove the idea. It tells about beaver teeth, not about people."
+      "t": "Many pairs use the same cavity year after year.",
+      "why": "This tells where the birds nest. It does not compare them to people."
      }
     ],
     "answer": 2
@@ -1995,48 +1992,48 @@ window.SETS = {
     "type": "ebsr",
     "skill": "A trait of the animal + proof",
     "partA": {
-     "q": "What conclusion can be drawn about beavers?",
+     "q": "What conclusion can be drawn about red-headed woodpeckers?",
      "choices": [
       {
-       "t": "Beavers are very lazy.",
-       "why": "Beavers cut trees, build dams, and fix leaks. That is not lazy."
+       "t": "Red-headed woodpeckers are sleepy.",
+       "why": "The birds sit still while they watch for insects. That is not the same as being sleepy."
       },
       {
-       "t": "Beavers are very hardworking.",
-       "why": "Yes! Beavers cut trees, build dams and lodges, and fix leaks right away. Answer first. Then find the proof."
+       "t": "Red-headed woodpeckers are picky.",
+       "why": "These birds eat insects, berries, fruit, corn and food from trees. That is not picky."
       },
       {
-       "t": "Beavers are very unkind.",
-       "why": "The older kits help care for the new babies. That is kind, not unkind."
+       "t": "Red-headed woodpeckers are bold.",
+       "why": "Yes! Bold means not afraid. These woodpeckers even fight much bigger woodpeckers. Answer first. Then find the proof."
       },
       {
-       "t": "Beavers are very sleepy.",
-       "why": "Grandpa says the beaver will work all night. Nothing shows beavers are sleepy."
+       "t": "Red-headed woodpeckers are gentle.",
+       "why": "Nothing in the passage shows these woodpeckers being gentle."
       }
      ],
-     "answer": 1
+     "answer": 2
     },
     "partB": {
      "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
-       "t": "Beavers are the largest rodents in North America.",
-       "why": "This tells how big beavers are. It does not describe how they act."
+       "t": "They perch very still on a branch or a fence post and watch for flying beetles and gnats.",
+       "why": "This tells how they hunt. It does not prove your Part A answer."
       },
       {
-       "t": "If water leaks through the dam, the beavers hurry to patch the hole with fresh mud and sticks.",
-       "why": "Yes! The beavers hurry to fix their dam with fresh mud and sticks. Part B is your Detail. It proves your Part A answer."
+       "t": "The male does most of the carving.",
+       "why": "This tells who carves the nest. It does not prove your Part A answer."
       },
       {
-       "t": "Every spring, a mother beaver has a few babies, called kits.",
-       "why": "This is true, but it does not prove your Part A answer. It tells when kits are born."
+       "t": "Many pairs use the same cavity year after year.",
+       "why": "This tells where the birds nest. It does not describe how they act toward other birds."
       },
       {
-       "t": "They have webbed back feet for swimming and a flat, scaly tail that helps them balance.",
-       "why": "This tells about a beaver's body. It does not describe how they act."
+       "t": "They will even pick fights with woodpeckers that are much bigger than they are.",
+       "why": "Yes! Standing up to a much bigger bird takes boldness. Part B is your Detail. It proves your Part A answer."
       }
      ],
-     "answer": 1
+     "answer": 3
     }
    }
   ]
@@ -2798,112 +2795,103 @@ window.SETS = {
     "credit": "Written for this practice test."
    },
    {
-    "title": "Pictures on Every Page",
-    "subtitle": "Alma Bennett illustrates children's books. One of them stars a little fox who is afraid of the dark!",
+    "title": "Bread Before Sunrise",
+    "subtitle": "Omar Haddad's workday begins at three o'clock in the morning. That's when the bread gets going!",
     "blocks": [
      {
-      "p": "Alma Bennett works in a sunny attic studio in Boise, Idaho. Jars of paintbrushes crowd her cluttered desk. Sketches cover the walls. Alma is an illustrator, an artist who draws the pictures for books."
+      "p": "While most of Tulsa, Oklahoma, is still asleep, Omar Haddad unlocks the back door of his cozy neighborhood bakery. Omar flips on the lights, ties on a flour-dusted apron, and switches on two enormous brick ovens. By sunrise, his wooden shelves will be crowded with crusty, fragrant loaves."
      },
      {
-      "p": "Alma has loved to draw since she was six years old. \"My first drawings were just scribbles,\" she admitted. \"Now I draw something new every single day.\""
+      "p": "Omar has been a professional baker for twenty years. \"Good bread needs only flour, water, salt, and yeast,\" he explained. \"The magic is in what you do with them.\""
      },
      {
-      "h": "Planning the Pages"
+      "h": "A Tiny Helper"
      },
      {
-      "p": "The words for a picture book usually come first. An author writes the story, called the manuscript. Then an editor at a publishing company chooses an illustrator to create the pictures. One spring, an editor sent Alma a manuscript. It was about a little fox who was afraid of the dark."
+      "p": "Yeast is a living organism, so tiny that you would need a microscope to see a single one. When yeast is mixed into dough, it gobbles up sugars in the flour. As it feeds, it releases a gas called carbon dioxide. The gas gets trapped inside the dough in thousands of tiny pockets. Gradually, the dough swells. Bakers call this rising."
      },
      {
-      "p": "Alma read the story ten times, imagining each scene. Then she drew thumbnails. These are tiny sketches no bigger than a postage stamp. She made one for each page. Most picture books have just 32 pages, so every page is important."
+      "p": "Some of Omar's loaves rise with a sourdough starter instead of store-bought yeast. A starter is a goopy mixture of flour and water that contains wild yeast. Omar feeds his starter fresh flour and water every single day. \"My starter is older than my bakery,\" Omar said with a chuckle. \"It's practically a pet that lives in a jar.\" Sourdough loaves have a slightly tangy taste."
      },
      {
-      "p": "Next, Alma had to get to know the main character. She sketched the fox snoozing, scampering, and hiding under a blanket, more than 100 times. \"The fox has to look like the same fox on every page,\" she explained. \"Otherwise, readers get confused.\""
+      "h": "Mixing and Waiting"
      },
      {
-      "p": "When the plan was ready, Alma made a dummy¹. She folded sheets of paper in half and stapled them along the fold. Then she drew a rough sketch on every page. A dummy shows what readers will see each time they turn the page."
+      "p": "First, Omar dumps flour, water, salt, and yeast into a mixing machine as big as a bathtub. It can hold enough dough for 200 loaves. Next comes kneading. A curved metal hook stretches and folds the dough over and over. Kneading develops gluten, elastic strands that form when wheat flour and water are worked together. The gluten traps the yeast's gas, the way a balloon holds air."
      },
      {
-      "p": "Try this: Fold eight sheets of paper in half and staple them along the fold. Then count the pages. You have made a 32-page book, just like Alma's dummy!"
+      "p": "Then Omar waits. He covers the dough and allows it to rise for several hours. \"You can't hurry good bread,\" Omar said. \"Time gives it flavor.\""
      },
      {
-      "p": "Alma mailed the dummy to her editor and to the art director. The art director is in charge of the book's design. They examined every page and requested a few changes. \"They wanted the fox's tail to be fluffier,\" Alma said. \"So I redrew it on every page.\""
+      "p": "Try this: Gently press your fingertip into a ball of risen dough. If the dent springs back slowly and only partway, the dough is ready to bake. If it springs right back, the dough needs more time."
      },
      {
-      "h": "Painting the Pictures"
+      "h": "Into the Oven"
      },
      {
-      "p": "Some illustrators create their pictures on computers, but Alma prefers to paint by hand. She placed each sketch on a light box, a flat box with a glowing top. She laid thick watercolor paper over it. The light shone through both sheets, so she could trace the sketch. Then she painted it with watercolors, one transparent layer at a time. Each painting took about three days. The final art took nine months."
+      "p": "When the dough is ready, Omar divides it and forms round loaves and long, skinny baguettes. Just before baking, Omar grabs a razor blade and slashes a quick cut across the top of each loaf. \"The cut gives the bread a place to open up,\" he explained. \"Without it, a loaf could burst open in a lumpy, crooked crack.\""
      },
      {
-      "h": "Off to the Printer"
+      "p": "Omar slides the loaves into the ovens and squirts in water to create steam. The steam keeps the outside of the dough soft for a few minutes, so the loaves can expand even more. Soon the crust turns golden and crisp. To check whether a loaf is finished, Omar flips it over and taps the bottom. A finished loaf sounds hollow, like a drum."
      },
      {
-      "p": "The paintings were scanned into a computer and emailed to a printing company. A few weeks later, a parcel arrived with the proofs. Proofs are test pages that show how the printed book will look."
+      "p": "The bakery opens at seven o'clock, and customers line up outside the door. \"The aroma pulls them in,\" Omar said, grinning."
      },
      {
-      "p": "Alma tore open the parcel right away. She spread the proofs across her drafting table. Then she held each proof beside her painting and inspected every color through a magnifying glass. The next day, she returned the proofs to her editor."
-     },
-     {
-      "p": "Finally, gigantic printing presses printed thousands of copies on enormous sheets of paper. Every color in the book was made from tiny dots of only four inks. Machines folded the sheets, trimmed them, and bound them into hardcover books."
-     },
-     {
-      "p": "Almost two years after the manuscript first arrived, Alma held the finished book in her hands. \"Somewhere, a kid is reading this at bedtime,\" she said, grinning. \"That's the best part of my job.\""
+      "p": "By two o'clock in the afternoon, the shelves are nearly empty. Omar scrubs the long wooden counter and shuts off the ovens. He locks the front door behind him. On his way home, Omar donates the extra loaves to a food pantry down the street."
      }
     ],
-    "footnotes": [
-     {
-      "mark": "¹",
-      "word": "dummy",
-      "meaning": "a practice copy of a book, made with rough sketches"
-     }
-    ],
+    "footnotes": [],
     "credit": "Written for this practice test."
    },
    {
-    "title": "The Night the Turtles Hatched",
+    "title": "The Little Haymaker",
     "subtitle": "",
     "blocks": [
      {
-      "p": "Last August, I stayed with my grandmother in Melbourne Beach, Florida. One evening, her neighbor Mr. Delgado knocked on the door. He was a volunteer who patrolled the beach to protect sea turtle nests. \"The sand on top of one nest has sunk into a little bowl,\" he said. \"That means the babies are wriggling around underneath. They might emerge tonight.\""
+      "p": "Last August, Mom and I hiked up a mountain path in Colorado. Near the summit, the path cut across a steep slope covered with jagged gray rocks, called talus¹. We sat down on a flat boulder to rest and eat lunch. Suddenly, a shrill squeak echoed from somewhere among the rocks."
      },
      {
-      "p": "After dark, Grandma and I sat quietly with Mr. Delgado on the sand, a short distance from the nest. We didn't bring flashlights, because bright lights can confuse baby turtles. For a long time, nothing happened. Then the sand on top of the nest began to quiver."
+      "p": "\"Eeep!\""
      },
      {
-      "p": "A tiny head popped up, and then another. Soon, dozens of hatchlings¹ were clambering over each other and scrambling toward the surf. Each one was smaller than my palm. \"Loggerheads,\" Mr. Delgado whispered."
+      "p": "A small, round creature was perched on a rock a short distance away. It had round ears, gray-brown fur, and no tail that I could see. \"That's a pika,\" Mom whispered. \"It's warning other pikas to stay away from its rocks.\""
      },
      {
-      "p": "Those tiny hatchlings could grow into giants. An adult loggerhead's shell, called a carapace, can be about three feet long. The turtle can weigh about 250 pounds. Its long front flippers move like wings, propelling it through the water. Unlike a tortoise, a sea turtle cannot pull its head or flippers inside its shell."
+      "p": "The pika darted into a crevice between two rocks. A minute later, it reappeared at the edge of an alpine meadow. Soon it scurried back with a bundle of grass stems and wildflowers sticking out of both sides of its mouth. It left the plants on a pile beneath a ledge. Then it raced off for more. It made trip after trip while we finished our lunch. Mom explained that the pile was a haypile², the pika's food supply for the winter."
      },
      {
-      "p": "A loggerhead is named for its enormous head, which holds powerful jaws. Loggerheads use them to crunch crabs, clams and conchs, shells and all. Hatchlings are too small for such hard food, so they eat tiny creatures that float near the surface of the ocean."
+      "p": "A pika looks like a hamster, but it is actually a close relative of the rabbit. An adult is about 7 inches long and weighs roughly the same as a baseball. Its thick, soft fur keeps it warm on frosty mountain nights. Its gray-brown color blends in with the rocks, which helps it hide from predators such as hawks, weasels, and coyotes."
      },
      {
-      "p": "Once hatchlings reach the water, they paddle for a day or more without stopping. Many end up far from land, hiding in floating mats of sargassum². Older loggerheads may migrate thousands of miles across the ocean. Only adult females ever venture back onto land, and only to lay eggs. Loggerheads spend almost their entire lives at sea."
+      "p": "Pikas live high in the mountains of western North America. They make their homes in talus, where the narrow spaces between the rocks become tunnels and dens. Deep beneath the surface, the rocks stay cool in summer and warm in winter. Each pika guards its own patch of rocks and chases away other pikas that come too close."
      },
      {
-      "p": "Like people coming home after a long trip, many females return to nest near the beach where they hatched. A mother loggerhead crawls ashore at night and scoops out a deep hole with her back flippers. She lays about 100 eggs, each one white and round, like a Ping-Pong ball. Then she covers the nest with sand and swims away. About two months later, the babies crack their shells. They use a sharp bump on their beaks called an egg tooth. Together, they burrow up through the sand."
+      "p": "In summer, the alpine meadows near the talus fill with grasses and wildflowers. A pika gathers mouthfuls of these plants and spreads them under a rock to dry. When the hay is dry, the pika carries it into its den. A haypile can grow as big as a laundry basket. A pika spends the whole summer storing food for winter."
      },
      {
-      "p": "Hatchlings find the ocean by instinct. They crawl toward the brightest light they can see. On a dark beach, that light is the horizon over the water, lit by the moon and stars. But today, many beaches have houses, hotels and streetlights right behind them. Those artificial lights shine brighter than the sky over the water. So, many hatchlings crawl the wrong way, toward roads and parking lots, and never reach the sea."
+      "p": "Pikas do not hibernate. Instead, they remain awake all winter and scurry through tunnels beneath the snow. Like a family stocking its pantry before a big snowstorm, pikas pack their dens with hay before winter. Throughout the snowy months, they nibble on the hay they collected."
      },
      {
-      "p": "To protect hatchlings, many beach towns ask residents to turn off their outdoor lights during nesting season."
+      "p": "In spring, a mother pika gives birth to two to four babies. The babies drink their mother's milk for about a month, and they are fully grown by the time they are three months old. Then each young pika must find its own patch of rocks and gather its own hay before the snow comes."
      },
      {
-      "p": "That night, the houses behind us were dark. One by one, the hatchlings reached the wet sand. A wave rolled in and flipped one tiny turtle onto its back. It waved its flippers, rolled itself over, and kept crawling until the next wave swept it away. I watched until the last hatchling vanished into the dark water. As we walked home, I hoped that some of them would grow up and return to this beach someday."
+      "p": "Pikas have one serious weakness: the thick fur that protects them in winter makes it difficult for them to cool off. On hot afternoons, pikas retreat deep into the shady rocks. But summers in the mountains are getting hotter, and pikas have already disappeared from some warm, low places where they once lived. On a scorching day, a pika that cannot escape the heat for a few hours can die."
+     },
+     {
+      "p": "That afternoon, a cool breeze drifted across the slope, and our pika kept working. When Mom finally said we had to head back down the mountain, I didn't want to leave. I could have watched that pika all day."
      }
     ],
     "footnotes": [
      {
       "mark": "¹",
-      "word": "hatchlings",
-      "meaning": "baby animals that have just come out of their eggs"
+      "word": "talus (TAY-lus)",
+      "meaning": "a slope covered with broken rocks"
      },
      {
       "mark": "²",
-      "word": "sargassum (sar-GAS-um)",
-      "meaning": "a brown seaweed that floats in big mats on the ocean"
+      "word": "haypile",
+      "meaning": "a pile of dried plants that a pika keeps for winter food"
      }
     ],
     "credit": "Written for this practice test."
@@ -3099,45 +3087,45 @@ window.SETS = {
     "type": "ebsr",
     "skill": "Conclusion about the job + proof",
     "partA": {
-     "q": "Which of these conclusions about making a dummy is supported by the passage?",
+     "q": "Which of these conclusions about cutting the top of each loaf is supported by the passage?",
      "choices": [
       {
-       "t": "It is painted with watercolors one layer at a time.",
-       "why": "Alma paints with watercolors later, for the final art. The dummy has only rough sketches."
+       "t": "It helps the dough rise more quickly before baking.",
+       "why": "The dough rises for hours before Omar cuts it. The cut does not make it rise more quickly."
       },
       {
-       "t": "It helps Alma plan what each page will show.",
-       "why": "Yes! A dummy shows what readers will see on each page, so Alma can plan the book. Answer first. Then find the proof."
+       "t": "It tells Omar when the bread is finished.",
+       "why": "Omar taps the bottom of a loaf to check if it is done. The cut does not tell him that."
       },
       {
-       "t": "It is sent straight to the printing company.",
-       "why": "Alma mails the dummy to her editor and the art director, not to the printer."
+       "t": "It controls where the loaf splits open in the oven.",
+       "why": "Yes! The cut gives the bread a planned place to open, so it does not crack in a crooked way. Answer first. Then find the proof."
       },
       {
-       "t": "It is the last step in making the book.",
-       "why": "The dummy comes early. Painting, proofs and printing all come after it."
+       "t": "It lets steam into the middle of each loaf.",
+       "why": "Omar squirts water into the oven to make steam. The passage never says the cut lets steam in."
       }
      ],
-     "answer": 1
+     "answer": 2
     },
     "partB": {
      "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
-       "t": "She folded sheets of paper in half and stapled them along the fold.",
-       "why": "This tells how Alma makes a dummy. It does not show what the dummy is for."
+       "t": "\"You can't hurry good bread,\" Omar said.",
+       "why": "This tells that bread needs time to rise. It does not show what the cut is for."
       },
       {
-       "t": "A dummy shows what readers will see each time they turn the page.",
-       "why": "Yes! Part B is your Detail. It proves your Part A answer. The dummy lets Alma plan every page."
+       "t": "\"Without it, a loaf could burst open in a lumpy, crooked crack.\"",
+       "why": "Yes! Part B is your Detail. It proves your Part A answer. Without the cut, the loaf could crack open in a messy way."
       },
       {
-       "t": "Alma mailed the dummy to her editor and to the art director.",
-       "why": "This tells where the dummy goes. It does not show what the dummy is for."
+       "t": "The steam keeps the outside of the dough soft for a few minutes, so the loaves can expand even more.",
+       "why": "This tells what the steam does. It is not about the cut."
       },
       {
-       "t": "Then she painted it with watercolors, one transparent layer at a time.",
-       "why": "This is about the final paintings, not the dummy."
+       "t": "To check whether a loaf is finished, Omar flips it over and taps the bottom.",
+       "why": "This tells how Omar checks if a loaf is done. It does not show what the cut is for."
       }
      ],
      "answer": 1
@@ -3152,20 +3140,20 @@ window.SETS = {
     "stem": "Which sentence **best** describes the main idea of the passage?",
     "choices": [
      {
-      "t": "Every picture book takes almost two years to make, no matter who draws it.",
-      "why": "This says every book. The passage only tells about Alma's book. It does not say all books take two years."
+      "t": "All bakers wake up at three o'clock in the morning to bake their fresh bread.",
+      "why": "This says all bakers. The passage only tells about Omar. It does not say every baker starts at three o'clock."
      },
      {
-      "t": "Alma paints her pictures by hand with watercolors, one transparent layer at a time.",
+      "t": "Omar's sourdough starter is older than his bakery, and he feeds it every day.",
       "why": "This is true, but it is one detail. The main idea tells what the whole passage is about."
      },
      {
-      "t": "Alma's fox book sold more copies than any other book she has ever drawn.",
-      "why": "The passage never says how many copies the book sold."
+      "t": "Baking bread with sourdough is much harder than baking bread with store-bought yeast.",
+      "why": "The passage never compares how hard the two kinds of bread are to make."
      },
      {
-      "t": "Alma Bennett follows many steps to turn a story into a finished picture book.",
-      "why": "Yes! The whole passage tells how Alma turns a story into a book, one step at a time."
+      "t": "Omar Haddad mixes, waits and bakes for hours to turn flour into fresh bread each day.",
+      "why": "Yes! The whole passage tells how Omar turns flour, water, salt and yeast into bread, one step at a time."
      }
     ],
     "answer": 3
@@ -3176,29 +3164,29 @@ window.SETS = {
     "p": 1,
     "type": "hottext",
     "skill": "Click the proof: the person's trait",
-    "stem": "The reader can conclude that Alma is eager to see the proofs. Select the sentence that **best** supports this conclusion.",
+    "stem": "The reader can conclude that Omar is generous. Select the sentence that **best** supports this conclusion.",
     "pick": 1,
     "layout": "list",
     "pieces": [
      {
-      "t": "Alma tore open the parcel right away.",
-      "why": "Yes! Alma tears the parcel open right away. That shows she is eager to see the proofs."
+      "t": "By two o'clock in the afternoon, the shelves are nearly empty.",
+      "why": "This tells that most of the bread has been sold. It does not show that Omar is generous."
      },
      {
-      "t": "She spread the proofs across her drafting table.",
-      "why": "This tells where Alma puts the proofs. It does not show she is eager to see them."
+      "t": "Omar scrubs the long wooden counter and shuts off the ovens.",
+      "why": "This tells how Omar cleans up. It does not prove he is generous."
      },
      {
-      "t": "Then she held each proof beside her painting and inspected every color through a magnifying glass.",
-      "why": "This tells how Alma looks at the colors. It does not show she is eager to see the proofs."
+      "t": "He locks the front door behind him.",
+      "why": "This tells how Omar closes the bakery. It does not prove he is generous."
      },
      {
-      "t": "The next day, she returned the proofs to her editor.",
-      "why": "This tells what Alma does the next day. It does not show she is eager."
+      "t": "On his way home, Omar donates the extra loaves to a food pantry down the street.",
+      "why": "Yes! Omar gives his extra bread to a food pantry, which shares food with people who need it. That shows he is generous."
      }
     ],
     "answer": [
-     0
+     3
     ]
    },
    {
@@ -3209,45 +3197,45 @@ window.SETS = {
     "skill": "The main problem + proof",
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
-     "q": "Which sentence **best** tells the main problem loggerhead hatchlings face in the passage?",
+     "q": "Which sentence **best** tells the main problem pikas face in the passage?",
      "choices": [
       {
-       "t": "Mother turtles lay about one hundred eggs in each nest.",
-       "why": "This is true, but it is not a problem. It tells how many eggs a mother lays."
+       "t": "Pikas carry plants in their mouths.",
+       "why": "This is true, but it is not a problem. It tells how a pika moves its food."
       },
       {
-       "t": "Many beach towns ask people to turn off their lights.",
+       "t": "Pikas can overheat on hot summer days.",
+       "why": "Yes! Pikas have trouble cooling off, and too much heat can kill them. Answer first. Then find the proof."
+      },
+      {
+       "t": "Pikas chase other pikas off their rocks.",
+       "why": "This is true, but it is not the big trouble. It tells how a pika guards its own rocks."
+      },
+      {
+       "t": "Pikas hide in shady rocks on hot days.",
        "why": "The fix is not the problem. The problem comes first."
-      },
-      {
-       "t": "Bright lights near beaches lead many hatchlings the wrong way.",
-       "why": "Yes! The lights trick the hatchlings, and many never reach the sea. Answer first. Then find the proof."
-      },
-      {
-       "t": "Hatchlings paddle for a day or more without stopping.",
-       "why": "This is true, but it is not a problem. It tells what hatchlings do once they reach the water."
       }
      ],
-     "answer": 2
+     "answer": 1
     },
     "partB": {
      "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
-       "t": "Hatchlings find the ocean by instinct.",
-       "why": "This is true, but it does not prove there is a problem. It tells how hatchlings find the ocean."
+       "t": "Soon it scurried back with a bundle of grass stems and wildflowers sticking out of both sides of its mouth.",
+       "why": "This is true, but it does not prove there is a problem. It tells how the pika carries plants."
       },
       {
-       "t": "But today, many beaches have houses, hotels and streetlights right behind them.",
-       "why": "This tells where the buildings are. It does not show what happens to the hatchlings."
+       "t": "Each pika guards its own patch of rocks and chases away other pikas that come too close.",
+       "why": "This tells how a pika guards its rocks. It does not show the big trouble pikas face."
       },
       {
-       "t": "To protect hatchlings, many beach towns ask residents to turn off their outdoor lights during nesting season.",
+       "t": "On hot afternoons, pikas retreat deep into the shady rocks.",
        "why": "The fix is not the problem. The problem comes first."
       },
       {
-       "t": "So, many hatchlings crawl the wrong way, toward roads and parking lots, and never reach the sea.",
-       "why": "Yes! Part B is your Detail. It proves your Part A answer. The lights lead the hatchlings away from the sea."
+       "t": "On a scorching day, a pika that cannot escape the heat for a few hours can die.",
+       "why": "Yes! Part B is your Detail. It proves your Part A answer. A few hot hours can kill a pika."
       }
      ],
      "answer": 3
@@ -3264,24 +3252,24 @@ window.SETS = {
     "layout": "para",
     "pieces": [
      {
-      "t": "Once hatchlings reach the water, they paddle for a day or more without stopping.",
-      "why": "That is one detail. It tells about young turtles on their first day in the water."
+      "t": "In summer, the alpine meadows near the talus fill with grasses and wildflowers.",
+      "why": "That is one detail. It tells what grows near the rocks in summer."
      },
      {
-      "t": "Many end up far from land, hiding in floating mats of sargassum.",
-      "why": "That is one detail. It tells where some young turtles hide."
+      "t": "A pika gathers mouthfuls of these plants and spreads them under a rock to dry.",
+      "why": "That is one detail. It tells one step, drying the plants."
      },
      {
-      "t": "Older loggerheads may migrate thousands of miles across the ocean.",
-      "why": "That is one detail. It tells about older turtles only."
+      "t": "When the hay is dry, the pika carries it into its den.",
+      "why": "That is one detail. It tells where the dry hay goes."
      },
      {
-      "t": "Only adult females ever venture back onto land, and only to lay eggs.",
-      "why": "This is true, but it is one detail. It tells about the mothers only."
+      "t": "A haypile can grow as big as a laundry basket.",
+      "why": "That is one detail. It tells how big a haypile can get."
      },
      {
-      "t": "Loggerheads spend almost their entire lives at sea.",
-      "why": "Yes! Every sentence in the paragraph tells about loggerheads living in the ocean. This sentence sums them all up."
+      "t": "A pika spends the whole summer storing food for winter.",
+      "why": "Yes! Every sentence in the paragraph tells about the pika getting its food ready for winter. This sentence sums them all up."
      }
     ],
     "answer": [
@@ -3295,48 +3283,48 @@ window.SETS = {
     "type": "ebsr",
     "skill": "The author's feelings + proof",
     "partA": {
-     "q": "Which of these conclusions about the author's feelings about the hatchlings is supported by the passage?",
+     "q": "Which of these conclusions about the author's feelings about pikas is supported by the passage?",
      "choices": [
       {
-       "t": "The author is bored while waiting for them.",
-       "why": "The author waits a long time. But the author never says the wait is boring."
+       "t": "The author thinks a pika is a kind of hamster.",
+       "why": "The passage says a pika looks like a hamster. But it also says a pika is a close relative of the rabbit."
       },
       {
-       "t": "The author is afraid to get close to them.",
-       "why": "The author sits a short distance away, but nothing in the passage shows fear."
+       "t": "The author is bothered by the pika's loud squeak.",
+       "why": "The squeak is a warning to other pikas. Nothing shows that the author minds it."
       },
       {
-       "t": "The author wants to keep one as a pet.",
-       "why": "The passage never says this. The author only watches the hatchlings."
+       "t": "The author enjoys watching the pika at work.",
+       "why": "Yes! The author does not want to leave and could watch the pika for a whole day. Answer first. Then find the proof."
       },
       {
-       "t": "The author wishes the hatchlings a long life.",
-       "why": "Yes! The author hopes some of them will grow up and come back one day. Answer first. Then find the proof."
+       "t": "The author wants to take the pika home as a pet.",
+       "why": "The author only watches the pika. Nothing shows the author wants a pet."
       }
      ],
-     "answer": 3
+     "answer": 2
     },
     "partB": {
      "q": "Which sentence from the passage **best** supports the conclusion drawn in part A?",
      "choices": [
       {
-       "t": "After dark, Grandma and I sat quietly with Mr. Delgado on the sand, a short distance from the nest.",
-       "why": "This tells where the author waits. It does not show how the author feels about the hatchlings."
+       "t": "\"It's warning other pikas to stay away from its rocks.\"",
+       "why": "This tells why the pika squeaks. It does not show how the author feels about pikas."
       },
       {
-       "t": "Soon, dozens of hatchlings were clambering over each other and scrambling toward the surf.",
-       "why": "This tells what the author sees. It does not show the author's feelings."
+       "t": "A pika looks like a hamster, but it is actually a close relative of the rabbit.",
+       "why": "This is a fact about pikas. It does not tell how the author feels."
       },
       {
-       "t": "As we walked home, I hoped that some of them would grow up and return to this beach someday.",
-       "why": "Yes! Part B is your Detail. It proves your Part A answer. The author hopes the hatchlings will grow up."
+       "t": "In spring, a mother pika gives birth to two to four babies.",
+       "why": "This is a fact about baby pikas. It does not show the author's feelings."
       },
       {
-       "t": "A wave rolled in and flipped one tiny turtle onto its back.",
-       "why": "This tells what happens to one turtle. It does not show how the author feels."
+       "t": "I could have watched that pika all day.",
+       "why": "Yes! Part B is your Detail. It proves your Part A answer. Someone who could watch all day is enjoying it."
       }
      ],
-     "answer": 2
+     "answer": 3
     }
    },
    {
@@ -3345,26 +3333,26 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that sea turtles and people have something in common. Which sentence from the passage **best** supports this inference?",
+    "stem": "The reader can infer that pikas behave like people at times. Which sentence from the passage **best** supports this inference?",
     "choices": [
      {
-      "t": "She lays about 100 eggs, each one white and round, like a Ping-Pong ball.",
-      "why": "This compares the eggs to a ball. It does not compare turtles to people."
+      "t": "A pika looks like a hamster, but it is actually a close relative of the rabbit.",
+      "why": "This compares a pika to a hamster and to a rabbit. Those are animals, not people."
      },
      {
-      "t": "Like people coming home after a long trip, many females return to nest near the beach where they hatched.",
-      "why": "Yes! The author compares the mother turtles to people coming home after a long trip. That proves sea turtles and people have something in common."
+      "t": "A haypile can grow as big as a laundry basket.",
+      "why": "This compares a haypile to a basket. A basket is a thing, not a person."
      },
      {
-      "t": "Its long front flippers move like wings, propelling it through the water.",
-      "why": "This compares flippers to wings. It does not compare turtles to people."
+      "t": "Like a family stocking its pantry before a big snowstorm, pikas pack their dens with hay before winter.",
+      "why": "Yes! The author compares pikas to a family that fills its pantry before a storm. A family is made up of people, so this proves pikas behave like people at times."
      },
      {
-      "t": "Unlike a tortoise, a sea turtle cannot pull its head or flippers inside its shell.",
-      "why": "This compares sea turtles to tortoises. It does not compare turtles to people."
+      "t": "Then each young pika must find its own patch of rocks and gather its own hay before the snow comes.",
+      "why": "People find their own homes too, but this sentence does not compare pikas to people. It only tells what a young pika must do."
      }
     ],
-    "answer": 1
+    "answer": 2
    },
    {
     "id": "TA13",
@@ -3373,48 +3361,48 @@ window.SETS = {
     "type": "ebsr",
     "skill": "A trait of the animal + proof",
     "partA": {
-     "q": "What conclusion can be drawn about the hatchlings?",
+     "q": "What conclusion can be drawn about pikas?",
      "choices": [
       {
-       "t": "Hatchlings are very lazy.",
-       "why": "The hatchlings dig, crawl and swim. Nothing in the passage shows they are lazy."
+       "t": "Pikas are very cuddly.",
+       "why": "A pika's fur is soft, yet a pika is a wild animal. Nothing shows that a pika likes to be held."
       },
       {
-       "t": "Hatchlings are very determined.",
-       "why": "Yes! Determined means you keep going and do not give up. The hatchlings keep going even when something goes wrong. Answer first. Then find the proof."
+       "t": "Pikas are very messy.",
+       "why": "The pika piles its plants on purpose so they can dry. That is not messy."
       },
       {
-       "t": "Hatchlings are very weak.",
-       "why": "The hatchlings are small, but small is not the same as weak. Nothing shows they are weak."
+       "t": "Pikas are very quick.",
+       "why": "Yes! The pika darted into the rocks and scurried back with plants. Answer first. Then find the proof."
       },
       {
-       "t": "Hatchlings are very noisy.",
-       "why": "The passage never tells about the hatchlings making a sound."
+       "t": "Pikas are very quiet.",
+       "why": "The pika makes a sharp squeak to warn other pikas. That is not quiet."
       }
      ],
-     "answer": 1
+     "answer": 2
     },
     "partB": {
      "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
-       "t": "Each one was smaller than my palm.",
-       "why": "This tells how small the hatchlings are. It does not show how they act."
+       "t": "The pika darted into a crevice between two rocks.",
+       "why": "Yes! Part B is your Detail. It proves your Part A answer. Darted means moved very fast."
       },
       {
-       "t": "Hatchlings are too small for such hard food, so they eat tiny creatures that float near the surface of the ocean.",
-       "why": "This tells what hatchlings eat. It does not show how they act."
+       "t": "It left the plants on a pile beneath a ledge.",
+       "why": "This tells where the pika puts its plants. It does not prove your Part A answer."
       },
       {
-       "t": "One by one, the hatchlings reached the wet sand.",
-       "why": "This tells where the hatchlings go. It does not show them facing any trouble."
+       "t": "Its thick, soft fur keeps it warm on frosty mountain nights.",
+       "why": "This tells about the pika's fur. Soft fur does not show how a pika acts."
       },
       {
-       "t": "It waved its flippers, rolled itself over, and kept crawling until the next wave swept it away.",
-       "why": "Yes! Part B is your Detail. It proves your Part A answer. A wave flips the hatchling, but it rolls over and keeps going."
+       "t": "Deep beneath the surface, the rocks stay cool in summer and warm in winter.",
+       "why": "This tells about the pika's home. It does not show how a pika acts."
       }
      ],
-     "answer": 3
+     "answer": 0
     }
    }
   ]
@@ -3531,50 +3519,50 @@ window.SETS = {
     "credit": "Written for this practice test."
    },
    {
-    "title": "The Monarchs in Grandma's Garden",
-    "subtitle": "What I learned from one striped caterpillar",
+    "title": "Our Armored Visitor",
+    "subtitle": "",
     "blocks": [
      {
-      "p": "Last August, I spotted a plump caterpillar on the milkweed in Grandma's garden in Oklahoma. It had yellow, black, and white stripes. It was munching the edge of a leaf as fast as it could."
+      "p": "One warm evening last spring, my aunt and I were sitting on her back porch in central Texas. The sun had just vanished. Twilight crept across the garden. Suddenly, a strange sound came from her flower bed."
      },
      {
-      "p": "\"That's a monarch caterpillar,\" Grandma said. \"Watch it every day, and you'll see something amazing.\""
+      "p": "\"Snuffle!\""
      },
      {
-      "p": "So I did. For a week, the caterpillar devoured leaf after leaf. Then one morning it dangled upside down from a leaf in the shape of the letter J. The next day, it had transformed into a green chrysalis¹ with tiny gold flecks. It hung there like a little green lantern. While I waited for it to open, I read everything I could find about monarchs."
+      "p": "A grayish animal about the size of a house cat was poking its long, pointed snout into the soil. Its body was covered with hard, curved rings of armor. \"That's an armadillo,\" my aunt whispered. \"It's hunting for grubs.\""
      },
      {
-      "p": "An adult monarch has four orange wings with black veins and white spots along the edges. Its wingspan is about four inches from tip to tip. Yet the whole butterfly weighs only about as much as a paper clip. A monarch sips sweet nectar from flowers through its proboscis². When it is not eating, the proboscis stays curled up in a tight coil."
+      "p": "The armadillo did not seem to notice us at all. It scraped out a shallow hole, sniffed, and gobbled up something wriggly. Then it waddled a few steps and dug another hole. Whenever a hole came up empty, it simply moved over and tried again. It kept working for almost an hour, until my aunt's flower bed was riddled with little pits. I had never seen such a remarkable creature. The next morning, I borrowed three books about armadillos from the library."
      },
      {
-      "p": "Monarch caterpillars eat only one kind of plant, called milkweed. Milkweed leaves contain a bitter poison. The poison does not hurt the caterpillar. Instead, it stays in the caterpillar's body, even after it becomes a butterfly. A bird that bites a monarch gets a disgusting taste and soon learns to avoid monarchs. So for a monarch, milkweed is both food and protection."
+      "p": "The word armadillo means \"little armored one\" in Spanish. An armadillo's armor is made of bone covered with tough scales. The armor covers its back, its sides, its head, and even its tail. Strips of softer skin between the bony parts let the animal bend. A grown armadillo is roughly two and a half feet long from its snout to the tip of its tail. Many people believe armadillos can curl up into a ball. The kind that lives in Texas cannot."
      },
      {
-      "p": "In spring and summer, a female monarch searches for milkweed. She lands on a leaf and tastes it with her feet. If it is milkweed, she lays one egg on the underside of the leaf. The egg is about the size of a pinhead. After about four days, a tiny caterpillar hatches and eats its own eggshell for its first meal. For the next two weeks, it munches milkweed and grows fast. Then it forms a chrysalis. About ten days later, a butterfly emerges. This change is called metamorphosis."
+      "p": "An armadillo hunts mostly for insects, such as beetles, termites, and grubs. Its snout is so sensitive that it can smell an insect through eight inches of soil. Once it locates a meal, it digs quickly with its long, curved front claws. Then it slurps up the insects with its long, sticky tongue. An armadillo is a skilled hunter of underground insects."
      },
      {
-      "p": "Monarchs that hatch in late summer have a special job. In the fall, these monarchs from the eastern United States and Canada migrate south to the mountains of central Mexico. Even though they weigh so little, some fly almost three thousand miles to get there. They spend the winter roosting in forests of tall fir trees. Thousands of them cluster together on a single tree, like people huddling close on a chilly night. In spring, they fly north again and lay eggs on milkweed along the way."
+      "p": "Armadillos are surprisingly skillful at crossing water. Like a swimmer taking a deep breath before a dive, an armadillo can hold its breath for up to six minutes. That is long enough to stroll across the bottom of a narrow creek. To float across a wider river, it gulps air until its stomach puffs up like a balloon."
      },
      {
-      "p": "Sadly, monarchs are in trouble. Scientists count them in Mexico every winter, and there are far fewer than there were thirty years ago. Fierce storms and pesticides, or bug sprays, have hurt them. But many fields where milkweed once grew wild are now farms, roads, and parking lots. So monarchs are losing the one plant their caterpillars can eat."
+      "p": "Armadillos come out mostly at night, so they usually spend the day resting in burrows¹. A burrow is often 7 feet deep and 25 feet long. A mother armadillo almost always gives birth to four babies at once, deep inside her burrow. The four babies are exactly alike, so they are all males or all females. At birth, a newborn armadillo's shell is soft, like leather. As the young armadillo grows, its shell slowly hardens."
      },
      {
-      "p": "Ten days after it formed, our chrysalis turned transparent. I could see folded orange wings inside. The next morning, a monarch emerged. It clung to the leaf. Slowly, it opened and closed its crumpled wings until they were dry. Then it floated over the fence and soared off toward the south. \"Have a safe trip,\" I whispered."
+      "p": "For more than a hundred years, armadillos have been spreading north. But they do not handle cold weather well. They carry hardly any extra fat on their bodies. Only a few thin hairs grow on their undersides. Their armor protects them from predators, but it does not keep out the frigid air. When freezing weather arrives, an armadillo stays inside its burrow. But it cannot hibernate². Meanwhile, the insects it eats burrow deeper into the icy ground. If a freeze lasts for more than a few days, many armadillos starve or freeze to death."
      },
      {
-      "p": "This spring, Grandma and I planted twenty more milkweed seedlings along the fence. I want every monarch that passes our garden to find a place to lay its eggs."
+      "p": "Two evenings later, I heard snuffling in the garden again. This time, my aunt just chuckled. \"Go ahead,\" she called softly. \"Dig up all the grubs you want.\""
      }
     ],
     "footnotes": [
      {
       "mark": "¹",
-      "word": "chrysalis",
-      "meaning": "the hard case that forms around a caterpillar while it changes into a butterfly"
+      "word": "burrow",
+      "meaning": "a hole or tunnel in the ground where an animal lives"
      },
      {
       "mark": "²",
-      "word": "proboscis",
-      "meaning": "a long mouth part, shaped like a thin tube, that a butterfly uses to drink"
+      "word": "hibernate",
+      "meaning": "to spend the winter in a deep sleep"
      }
     ],
     "credit": "Written for this practice test."
@@ -3880,48 +3868,48 @@ window.SETS = {
     "skill": "The main problem + proof",
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "partA": {
-     "q": "Which sentence **best** tells the main problem monarchs face in the passage?",
+     "q": "Which sentence **best** tells the main problem armadillos face in the passage?",
      "choices": [
       {
-       "t": "Monarchs fly south to Mexico every fall.",
-       "why": "This is true, but it is not a problem. It is something monarchs do every year."
+       "t": "Armadillos walk under water to cross creeks.",
+       "why": "This is true, but it is not a problem. It tells something armadillos can do."
       },
       {
-       "t": "Monarchs are losing the milkweed plants they need.",
-       "why": "Yes! Without milkweed, monarch caterpillars have nothing to eat. Answer first. Then find the proof."
+       "t": "Armadillos have four babies at a time.",
+       "why": "This is true, but it is not the big trouble. It tells how many babies an armadillo has."
       },
       {
-       "t": "Monarch caterpillars eat only milkweed.",
-       "why": "This is true, but it is not the big trouble. It only tells what caterpillars eat."
-      },
-      {
-       "t": "The author and Grandma plant milkweed in their garden.",
+       "t": "Armadillos stay in burrows when it freezes.",
        "why": "The fix is not the problem. The problem comes first."
+      },
+      {
+       "t": "Armadillos can die in a long freeze.",
+       "why": "Yes! Armadillos carry hardly any fat, and a long freeze can kill them. Answer first. Then find the proof."
       }
      ],
-     "answer": 1
+     "answer": 3
     },
     "partB": {
      "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
-       "t": "So monarchs are losing the one plant their caterpillars can eat.",
-       "why": "Yes! Milkweed is the only plant monarch caterpillars eat, and monarchs are losing it. Part B is your Detail. It proves your Part A answer."
+       "t": "That is long enough to stroll across the bottom of a narrow creek.",
+       "why": "This tells what an armadillo can do in the water. It does not show a problem."
       },
       {
-       "t": "Scientists count them in Mexico every winter, and there are far fewer than there were thirty years ago.",
-       "why": "This shows that monarchs are in trouble. But it does not tell what the trouble is."
+       "t": "A mother armadillo almost always gives birth to four babies at once, deep inside her burrow.",
+       "why": "This is true, but it does not prove there is a problem. It is a fact about babies."
       },
       {
-       "t": "Monarch caterpillars eat only one kind of plant, called milkweed.",
-       "why": "This is true. But it does not prove your Part A answer. It only tells what caterpillars eat."
+       "t": "When freezing weather arrives, an armadillo stays inside its burrow.",
+       "why": "The fix is not the problem. The problem comes first."
       },
       {
-       "t": "In the fall, these monarchs from the eastern United States and Canada migrate south to the mountains of central Mexico.",
-       "why": "This tells about the long trip. A trip is not a problem."
+       "t": "If a freeze lasts for more than a few days, many armadillos starve or freeze to death.",
+       "why": "Yes! Part B is your Detail. It proves your Part A answer. A long freeze kills many armadillos."
       }
      ],
-     "answer": 0
+     "answer": 3
     }
    },
    {
@@ -3935,32 +3923,28 @@ window.SETS = {
     "layout": "para",
     "pieces": [
      {
-      "t": "Monarch caterpillars eat only one kind of plant, called milkweed.",
-      "why": "This is the first sentence, but it tells only about food. The paragraph tells about more than food."
+      "t": "An armadillo hunts mostly for insects, such as beetles, termites, and grubs.",
+      "why": "That is one detail. It tells what an armadillo eats."
      },
      {
-      "t": "Milkweed leaves contain a bitter poison.",
-      "why": "Each of these is one detail about the poison. None of them tells what the whole paragraph is about."
+      "t": "Its snout is so sensitive that it can smell an insect through eight inches of soil.",
+      "why": "That is one detail. It tells about the armadillo's nose."
      },
      {
-      "t": "The poison does not hurt the caterpillar.",
-      "why": "Each of these is one detail about the poison. None of them tells what the whole paragraph is about."
+      "t": "Once it locates a meal, it digs quickly with its long, curved front claws.",
+      "why": "That is one detail. It tells how an armadillo digs."
      },
      {
-      "t": "Instead, it stays in the caterpillar's body, even after it becomes a butterfly.",
-      "why": "Each of these is one detail about the poison. None of them tells what the whole paragraph is about."
+      "t": "Then it slurps up the insects with its long, sticky tongue.",
+      "why": "That is one detail. It tells how an armadillo eats the insects."
      },
      {
-      "t": "A bird that bites a monarch gets a disgusting taste and soon learns to avoid monarchs.",
-      "why": "This tells what happens to a bird. It is one detail."
-     },
-     {
-      "t": "So for a monarch, milkweed is both food and protection.",
-      "why": "Yes! This sentence comes last, but it sums up the whole paragraph. It tells what all the other sentences are about."
+      "t": "An armadillo is a skilled hunter of underground insects.",
+      "why": "Yes! Every sentence in the paragraph tells how an armadillo finds its food in the ground. This sentence sums them all up."
      }
     ],
     "answer": [
-     5
+     4
     ]
    },
    {
@@ -3970,48 +3954,48 @@ window.SETS = {
     "type": "ebsr",
     "skill": "The author's feelings + proof",
     "partA": {
-     "q": "Which of these conclusions about the author's feelings about monarch butterflies is supported by the passage?",
+     "q": "Which of these conclusions about the author's feelings about armadillos is supported by the passage?",
      "choices": [
       {
-       "t": "The author is worried that monarchs will eat Grandma's plants.",
-       "why": "Nothing in the passage shows the author is upset about the caterpillars eating."
+       "t": "The author is upset that the armadillo ruined the garden.",
+       "why": "The pits are in the aunt's garden, and nothing shows the author is upset about them."
       },
       {
-       "t": "The author wants to keep a monarch as a pet.",
-       "why": "The author lets the butterfly fly away. Nothing shows the author wants a pet."
+       "t": "The author is interested in armadillos.",
+       "why": "Yes! The author goes looking for books about armadillos the very next morning. Answer first. Then find the proof."
       },
       {
-       "t": "The author thinks monarchs are the most beautiful insects in the world.",
-       "why": "The passage never compares monarchs with other insects."
+       "t": "The author feels sorry for newborn armadillos.",
+       "why": "The passage tells about newborn armadillos, but nothing shows the author feels sorry for them."
       },
       {
-       "t": "The author wants monarchs to find milkweed on their trip.",
-       "why": "Yes! The author plants milkweed so every monarch that passes can find a place to lay its eggs. Answer first. Then find the proof."
+       "t": "The author thinks an armadillo would make a good pet.",
+       "why": "The author only watches the armadillo from the porch. Nothing shows the author wants a pet."
       }
      ],
-     "answer": 3
+     "answer": 1
     },
     "partB": {
      "q": "Which sentence from the passage **best** supports the conclusion drawn in part A?",
      "choices": [
       {
-       "t": "While I waited for it to open, I read everything I could find about monarchs.",
-       "why": "This shows the author wants to learn about monarchs. It does not prove your Part A answer."
+       "t": "It kept working for almost an hour, until my aunt's flower bed was riddled with little pits.",
+       "why": "This tells what the armadillo did to the garden. It does not show how the author feels."
       },
       {
-       "t": "Scientists count them in Mexico every winter, and there are far fewer than there were thirty years ago.",
-       "why": "This is a fact about monarchs. It does not tell how the author feels."
+       "t": "The next morning, I borrowed three books about armadillos from the library.",
+       "why": "Yes! Part B is your Detail. It proves your Part A answer. The author wants to learn more about armadillos."
       },
       {
-       "t": "I want every monarch that passes our garden to find a place to lay its eggs.",
-       "why": "Yes! The author plants milkweed so passing monarchs can lay their eggs. Part B is your Detail. It proves your Part A answer."
+       "t": "At birth, a newborn armadillo's shell is soft, like leather.",
+       "why": "This is a fact about newborn armadillos. It does not tell how the author feels."
       },
       {
-       "t": "Then it floated over the fence and soared off toward the south.",
-       "why": "This tells what the butterfly does, not how the author feels."
+       "t": "This time, my aunt just chuckled.",
+       "why": "This tells how the aunt feels, not how the author feels."
       }
      ],
-     "answer": 2
+     "answer": 1
     }
    },
    {
@@ -4020,26 +4004,26 @@ window.SETS = {
     "p": 2,
     "type": "mc",
     "skill": "Which sentence supports the idea",
-    "stem": "The reader can infer that monarchs sometimes act the way people do. Which sentence from the passage **best** supports this inference?",
+    "stem": "The reader can infer that armadillos and people are similar. Which sentence from the passage **best** supports this inference?",
     "choices": [
      {
-      "t": "It hung there like a little green lantern.",
-      "why": "This compares the chrysalis to a lantern. A lantern is a thing, not a person."
+      "t": "A grayish animal about the size of a house cat was poking its long, pointed snout into the soil.",
+      "why": "This compares an armadillo's size to a cat. A cat is an animal, not a person."
      },
      {
-      "t": "Yet the whole butterfly weighs only about as much as a paper clip.",
-      "why": "This compares a monarch's weight to a paper clip. A paper clip is a thing, not a person."
+      "t": "Like a swimmer taking a deep breath before a dive, an armadillo can hold its breath for up to six minutes.",
+      "why": "Yes! The author compares the armadillo to a swimmer who holds a breath. That proves armadillos and people are similar."
      },
      {
-      "t": "She lands on a leaf and tastes it with her feet.",
-      "why": "People do not taste leaves with their feet. This shows a way monarchs are different from people."
+      "t": "To float across a wider river, it gulps air until its stomach puffs up like a balloon.",
+      "why": "This compares the armadillo's stomach to a balloon. A balloon is a thing, not a person."
      },
      {
-      "t": "Thousands of them cluster together on a single tree, like people huddling close on a chilly night.",
-      "why": "Yes! The monarchs crowd together the way people huddle close on a cold night. That proves monarchs sometimes act the way people do."
+      "t": "A mother armadillo almost always gives birth to four babies at once, deep inside her burrow.",
+      "why": "People have babies too, but this sentence does not compare armadillos to people. It only tells how many babies an armadillo has."
      }
     ],
-    "answer": 3
+    "answer": 1
    },
    {
     "id": "TB13",
@@ -4048,45 +4032,45 @@ window.SETS = {
     "type": "ebsr",
     "skill": "A trait of the animal + proof",
     "partA": {
-     "q": "What conclusion can be drawn about monarchs?",
+     "q": "What conclusion can be drawn about armadillos?",
      "choices": [
       {
-       "t": "Monarchs are very weak.",
-       "why": "A monarch weighs very little. But being light does not make it weak. Storms and bug sprays hurt monarchs, but that does not make them weak."
+       "t": "Armadillos are very friendly.",
+       "why": "The armadillo does not notice the people, but that does not make it friendly."
       },
       {
-       "t": "Monarchs are very lazy.",
-       "why": "Monarchs eat, lay eggs and make long trips. Nothing shows they are lazy."
+       "t": "Armadillos are very determined.",
+       "why": "Yes! Determined means you keep going and do not give up. The armadillo keeps trying, even when a hole is empty. Answer first. Then find the proof."
       },
       {
-       "t": "Monarchs are very strong.",
-       "why": "Yes! Monarchs are light, but they can fly very far. Answer first. Then find the proof."
+       "t": "Armadillos are very drowsy.",
+       "why": "Armadillos rest in the daytime because they come out at night. That does not make them drowsy."
       },
       {
-       "t": "Monarchs are very noisy.",
-       "why": "The passage never tells about monarchs making a sound."
+       "t": "Armadillos are very fragile.",
+       "why": "Only a newborn armadillo's shell is soft, and it hardens. Grown armadillos wear tough armor."
       }
      ],
-     "answer": 2
+     "answer": 1
     },
     "partB": {
      "q": "Which sentence from the passage **best** supports your answer in part A?",
      "choices": [
       {
-       "t": "Yet the whole butterfly weighs only about as much as a paper clip.",
-       "why": "This tells how light a monarch is. It does not show what a monarch can do."
+       "t": "The armadillo did not seem to notice us at all.",
+       "why": "This tells that the armadillo did not look up at the people. It does not prove your Part A answer."
       },
       {
-       "t": "Even though they weigh so little, some fly almost three thousand miles to get there.",
-       "why": "Yes! Flying almost three thousand miles is a very hard trip. Part B is your Detail. It proves your Part A answer."
+       "t": "Whenever a hole came up empty, it simply moved over and tried again.",
+       "why": "Yes! Part B is your Detail. It proves your Part A answer. The armadillo does not give up when a hole is empty."
       },
       {
-       "t": "Thousands of them cluster together on a single tree, like people huddling close on a chilly night.",
-       "why": "This tells how monarchs spend the winter. It does not prove your Part A answer."
+       "t": "Armadillos come out mostly at night, so they usually spend the day resting in burrows.",
+       "why": "This tells when armadillos rest. It does not prove your Part A answer."
       },
       {
-       "t": "After about four days, a tiny caterpillar hatches and eats its own eggshell for its first meal.",
-       "why": "This tells about a baby caterpillar. It does not prove your Part A answer."
+       "t": "At birth, a newborn armadillo's shell is soft, like leather.",
+       "why": "This tells about a newborn's shell. It does not show how armadillos act."
       }
      ],
      "answer": 1
