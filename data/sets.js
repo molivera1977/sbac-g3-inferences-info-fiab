@@ -1,7 +1,7 @@
 /* Grade 3 Reading Practice: Make and Support Inferences, Informational Texts.
    BUILT by tools/build_data.py from drafts/*.md. Do not edit by hand: change the draft, then run
    python3 tools/build_data.py (and python3 tools/check_drafts.py).
-   drafts fingerprint: d2b335852dd3 */
+   drafts fingerprint: d56e3ba1a2da */
 window.SETS = {
  "W": {
   "passages": [
@@ -2740,13 +2740,13 @@ window.SETS = {
     "subtitle": "Every mask starts with a pile of old newspaper!",
     "blocks": [
      {
-      "p": "Rip, rip, rip! Mateo tore yesterday's newspaper into long, thin strips. In the backyard, the roosters were just starting to crow. Mateo grinned. Making masks was his favorite part of the day."
+      "p": "Rip, rip, rip! Mateo tore yesterday's newspaper into long, thin strips. In the backyard, the chickens were pecking for bugs. Mateo grinned. Making masks was his favorite part of the day."
      },
      {
       "p": "\"Not too wide,\" Tío Ángel advised. \"Thin strips lie flat.\""
      },
      {
-      "p": "It was six o'clock in the morning in Ponce, Puerto Rico. Mateo helped his uncle every morning before school. In two weeks, the city would celebrate Carnival¹. Costumed dancers would parade through the streets in bright vejigante (veh-hee-GAHN-teh) masks. Tío Ángel was famous in the neighborhood. He crafted some of the most colorful masks in the city."
+      "p": "It was four o'clock in the afternoon in Ponce, Puerto Rico. Mateo helped his uncle every afternoon after school. In two weeks, the city would celebrate Carnival¹. Costumed dancers would parade through the streets in bright vejigante (veh-hee-GAHN-teh) masks. Tío Ángel was famous in the neighborhood. He crafted some of the most colorful masks in the city."
      },
      {
       "p": "Mateo stirred flour and water in a dented bucket. The mixture turned into a smooth, gooey paste. It felt cool and sticky between his fingers. He dipped a strip and slid it between two fingers to wipe off the extra. Then he laid it on a mask mold sculpted from clay. \"Smooth it out,\" Tío urged. \"No bumps.\" Mateo pressed every strip flat with his thumbs. Layer after layer, the soggy papier-mâché hardened into a thick, sturdy mask."
@@ -2764,16 +2764,16 @@ window.SETS = {
       "p": "When the last mask was complete, Tío handed Mateo a small paintbrush and a plain white mask. \"Your turn,\" Tío said. \"This mask is yours.\""
      },
      {
-      "p": "Mateo's stomach did a flip. He picked up the paintbrush and dipped it in yellow paint. His hand trembled, and the first dot came out as a long smear. He peered down at the yellow streak. The paint was still wet."
+      "p": "Mateo's stomach did a flip. He picked up the paintbrush and dipped it in yellow paint. He pressed too hard, and the first dot came out as a long smear. He swallowed hard and peered down at the yellow streak. The paint was still wet."
      },
      {
-      "p": "\"Breathe,\" Tío murmured. \"Slow hands make round dots.\""
+      "p": "\"Not so hard,\" Tío murmured. \"Slow hands make round dots.\""
      },
      {
-      "p": "Tío put his hand over Mateo's hand and helped him make three dots. Then he let go. Mateo held his breath and concentrated. He gently touched the paintbrush to the mask. A small, perfect dot! He made another, and then another. By the time he finished, only two dots were lopsided."
+      "p": "Mateo watched closely as Tío made three slow dots beside the smear. Then Mateo tried again. He touched the paintbrush to the mask. A small, perfect dot! He made another, and then another. By the time he finished, his dots were almost as round as Tío's."
      },
      {
-      "p": "Mateo rinsed the paste off his arms, put on his school uniform, and hurried out the door."
+      "p": "Mateo rinsed the paste off his arms and went inside for dinner."
      },
      {
       "h": "A Mask in the Parade"
@@ -2785,7 +2785,7 @@ window.SETS = {
       "p": "Mateo spotted a scarlet mask with five curving horns. He knew it right away. Tío Ángel had stayed up late every night for a week to finish it."
      },
      {
-      "p": "\"Tío, that's your mask!\" Mateo shouted. Tío Ángel smiled. \"Our masks,\" he said. Mateo thought about the yellow dots on his own mask at home. \"Someday,\" Mateo said, \"I'll make masks as good as yours.\""
+      "p": "\"Tío, that's your mask!\" Mateo shouted. Mateo squeezed his uncle's hand. Tío Ángel smiled. \"Our masks,\" he said. Mateo thought about the yellow dots on his own mask at home."
      }
     ],
     "footnotes": [
@@ -2943,33 +2943,33 @@ window.SETS = {
     "p": 0,
     "type": "hottext",
     "skill": "Click the proof: how the child feels",
-    "stem": "The reader can infer that Mateo looks up to his uncle. Click the sentence that **best** supports this inference.",
+    "stem": "The reader can infer that Mateo feels close to his uncle. Click the sentence that **best** supports this inference.",
     "pick": 1,
     "layout": "list",
     "pieces": [
      {
       "t": "\"Tío, that's your mask!\" Mateo shouted.",
-      "why": "Mateo is excited to see the mask. But this does not show he wants to be like Tío."
+      "why": "Shouting shows Mateo is excited about the mask. It does not show how he feels about Tío."
+     },
+     {
+      "t": "Mateo squeezed his uncle's hand.",
+      "why": "Yes! Mateo squeezes his uncle's hand. That shows he feels close to him."
      },
      {
       "t": "Tío Ángel smiled.",
-      "why": "These tell what Tío does and says. Look for what Mateo says about Tío."
+      "why": "These tell what Tío does and says. Look for what Mateo does."
      },
      {
       "t": "\"Our masks,\" he said.",
-      "why": "These tell what Tío does and says. Look for what Mateo says about Tío."
+      "why": "These tell what Tío does and says. Look for what Mateo does."
      },
      {
       "t": "Mateo thought about the yellow dots on his own mask at home.",
-      "why": "This tells what Mateo thinks about. It does not prove he looks up to Tío."
-     },
-     {
-      "t": "\"Someday,\" Mateo said, \"I'll make masks as good as yours.\"",
-      "why": "Yes! Mateo wants to make masks as good as Tío's someday. That shows he looks up to him."
+      "why": "This tells what Mateo thinks about his own mask. It does not prove he feels close to Tío."
      }
     ],
     "answer": [
-     4
+     1
     ]
    },
    {
@@ -2989,8 +2989,8 @@ window.SETS = {
       "why": "This is true. But it tells how the paste feels, not how Mateo feels."
      },
      {
-      "t": "It was six o'clock in the morning in Ponce, Puerto Rico. Mateo helped his uncle every morning before school.",
-      "why": "Mateo helps every morning. But helping does not prove he loves it. Look for how he feels."
+      "t": "It was four o'clock in the afternoon in Ponce, Puerto Rico. Mateo helped his uncle every afternoon after school.",
+      "why": "Mateo helps every afternoon. But helping does not prove he loves it. Look for how he feels."
      },
      {
       "t": "Mateo watched every flick of Tío's paintbrush as it tapped across the mask. Dot, dot, dot.",
@@ -3007,28 +3007,28 @@ window.SETS = {
     "skill": "Main idea of a few paragraphs + proof",
     "intro": "The following question has two parts. First, answer part A. Then, answer part B.",
     "excerpt": [
-     "Mateo's stomach did a flip. He picked up the paintbrush and dipped it in yellow paint. His hand trembled, and the first dot came out as a long smear. He peered down at the yellow streak. The paint was still wet.",
-     "\"Breathe,\" Tío murmured. \"Slow hands make round dots.\"",
-     "Tío put his hand over Mateo's hand and helped him make three dots. Then he let go. Mateo held his breath and concentrated. He gently touched the paintbrush to the mask. A small, perfect dot! He made another, and then another. By the time he finished, only two dots were lopsided."
+     "Mateo's stomach did a flip. He picked up the paintbrush and dipped it in yellow paint. He pressed too hard, and the first dot came out as a long smear. He swallowed hard and peered down at the yellow streak. The paint was still wet.",
+     "\"Not so hard,\" Tío murmured. \"Slow hands make round dots.\"",
+     "Mateo watched closely as Tío made three slow dots beside the smear. Then Mateo tried again. He touched the paintbrush to the mask. A small, perfect dot! He made another, and then another. By the time he finished, his dots were almost as round as Tío's."
     ],
     "partA": {
      "q": "What is the main idea of the paragraphs?",
      "choices": [
       {
-       "t": "Tío Ángel helps Mateo learn to paint dots.",
-       "why": "Yes! Tío shows Mateo how, and then Mateo paints on his own."
+       "t": "Mateo learns to paint dots by watching Tío.",
+       "why": "Yes! Mateo watches Tío paint, and then he paints round dots on his own."
       },
       {
-       "t": "Mateo's hand shakes when he paints.",
-       "why": "This happens once. It is a detail, not what all the paragraphs are about."
+       "t": "Mateo presses too hard on every dot.",
+       "why": "He presses too hard only on his first try. That is a detail, not what all the paragraphs are about."
       },
       {
-       "t": "Mateo and Tío Ángel take turns painting masks.",
-       "why": "Tío does say \"Your turn\" before these paragraphs. But these paragraphs are not about taking turns. They tell what happens while Mateo paints his own mask."
+       "t": "Tío Ángel paints all the dots for Mateo.",
+       "why": "Tío paints only three dots to show him. Mateo paints the rest of his mask himself."
       },
       {
-       "t": "Mateo will never learn to paint round dots.",
-       "why": "The paragraphs show the opposite. He paints round dots in the end."
+       "t": "Tío Ángel gets angry about the smear.",
+       "why": "Tío stays calm and shows Mateo how. Nothing says he is angry."
       }
      ],
      "answer": 0
@@ -3038,19 +3038,19 @@ window.SETS = {
      "choices": [
       {
        "t": "He picked up the paintbrush and dipped it in yellow paint.",
-       "why": "This is how the painting starts. It does not show Tío helping him learn."
+       "why": "This is how the painting starts. It does not show how he learns."
       },
       {
-       "t": "His hand trembled, and the first dot came out as a long smear.",
-       "why": "This shows a mistake, not the help."
+       "t": "He pressed too hard, and the first dot came out as a long smear.",
+       "why": "This shows a mistake, not how he learns."
       },
       {
-       "t": "Tío put his hand over Mateo's hand and helped him make three dots.",
-       "why": "Yes! This shows Tío helping Mateo learn. That is your detail."
+       "t": "Mateo watched closely as Tío made three slow dots beside the smear.",
+       "why": "Yes! This shows Mateo learning by watching Tío. That is your detail."
       },
       {
-       "t": "By the time he finished, only two dots were lopsided.",
-       "why": "This tells how it turned out. It does not show Tío helping."
+       "t": "By the time he finished, his dots were almost as round as Tío's.",
+       "why": "This tells how it turned out. It does not show how he learned."
       }
      ],
      "answer": 2
@@ -3068,19 +3068,19 @@ window.SETS = {
     "pieces": [
      {
       "t": "Mateo's stomach did a flip.",
-      "why": "A flipping stomach and a trembling hand are clues that Mateo feels uneasy."
+      "why": "A flipping stomach and a hard swallow are clues that Mateo feels uneasy."
      },
      {
       "t": "He picked up the paintbrush and dipped it in yellow paint.",
       "why": "This tells what Mateo does or sees. It does not prove he feels uneasy."
      },
      {
-      "t": "His hand trembled, and the first dot came out as a long smear.",
-      "why": "A flipping stomach and a trembling hand are clues that Mateo feels uneasy."
+      "t": "He pressed too hard, and the first dot came out as a long smear.",
+      "why": "This tells what Mateo does or sees. It does not prove he feels uneasy."
      },
      {
-      "t": "He peered down at the yellow streak.",
-      "why": "This tells what Mateo does or sees. It does not prove he feels uneasy."
+      "t": "He swallowed hard and peered down at the yellow streak.",
+      "why": "A flipping stomach and a hard swallow are clues that Mateo feels uneasy."
      },
      {
       "t": "The paint was still wet.",
@@ -3089,7 +3089,7 @@ window.SETS = {
     ],
     "answer": [
      0,
-     2
+     3
     ]
    },
    {
